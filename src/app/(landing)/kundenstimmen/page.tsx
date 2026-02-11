@@ -1,13 +1,11 @@
-import { BottomColorblur, TopColorblur } from "@/components/colorblur";
-import CtaButton from "@/components/cta-button";
-import CtaPageEnd from "@/components/cta-page-end";
-import Headline from "@/components/headline";
-import { CursorArrowRaysIcon, StarIcon } from "@/components/icons";
 import Section from "@/components/section";
 import Testimonial from "@/components/testimonial";
 import { Button } from "@/components/ui/button";
-import { GOOGLE_REVIEW_COUNT, REVIEWS } from "@/lib/constants";
+import { BASE_URL, GOOGLE_REVIEW_COUNT, REVIEWS, SITE_TITLE } from "@/lib/constants";
 import Link from "next/link";
+import Script from "next/script";
+import { StarIcon } from "@/components/icons";
+import CtaPageEnd from "@/components/cta-page-end";
 import React from "react";
 
 export const metadata = {
@@ -16,9 +14,42 @@ export const metadata = {
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
+function getReviewsJsonLd() {
+  const reviewsWithQuote = REVIEWS.filter((r) => r.quote?.trim());
+  return {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    name: SITE_TITLE,
+    url: BASE_URL,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5",
+      bestRating: "5",
+      worstRating: "1",
+      reviewCount: String(GOOGLE_REVIEW_COUNT),
+    },
+    ...(reviewsWithQuote.length > 0 && {
+      review: reviewsWithQuote.map((r) => ({
+        "@type": "Review" as const,
+        author: { "@type": "Person" as const, name: r.name },
+        datePublished: `${r.year}-01-01`,
+        reviewBody: r.quote?.trim(),
+      })),
+    }),
+  };
+}
+
 export default function Page() {
+  const jsonLd = getReviewsJsonLd();
+
   return (
     <div>
+      <Script
+        id="reviews-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        strategy="afterInteractive"
+      />
       <Section
         showColorBlurs={false}
         headline={{

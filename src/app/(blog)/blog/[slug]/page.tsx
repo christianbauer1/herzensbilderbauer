@@ -1,8 +1,10 @@
 import { getPost, getPosts, getBlogSlugsStatic } from "@/lib/blog";
 import type { BlogPost } from "@/lib/blog";
+import { BASE_URL, SITE_TITLE } from "@/lib/constants";
 import ReactMarkdown from "react-markdown";
 import Image from "next/image";
 import Link from "next/link";
+import Script from "next/script";
 import { getTextReadTime } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { EnvelopeIcon } from "@/components/icons";
@@ -27,15 +29,55 @@ export async function generateMetadata({
   };
 }
 
+function getBlogPostJsonLd(post: BlogPost) {
+  const imageUrl = post.previewImageUrl
+    ? post.previewImageUrl.startsWith("http")
+      ? post.previewImageUrl
+      : `${BASE_URL}${post.previewImageUrl.startsWith("/") ? "" : "/"}${post.previewImageUrl}`
+    : undefined;
+  const canonicalUrl = `${BASE_URL}/blog/${post.slug}`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    ...(imageUrl && { image: imageUrl }),
+    datePublished: post.createdAt.toISOString().split("T")[0],
+    ...(post.updatedAt && {
+      dateModified: post.updatedAt.toISOString().split("T")[0],
+    }),
+    author: {
+      "@type": "Person" as const,
+      name: post.creator,
+    },
+    publisher: {
+      "@type": "Organization" as const,
+      name: SITE_TITLE,
+      url: BASE_URL,
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage" as const,
+      "@id": canonicalUrl,
+    },
+  };
+}
+
 export default async function BlogPost({
   params,
 }: {
   params: { slug: string };
 }) {
   const post = await getPost(params.slug);
+  const jsonLd = getBlogPostJsonLd(post);
 
   return (
     <div className="mx-auto mb-32 mt-48 flex max-w-4xl flex-col break-words px-3">
+      <Script
+        id="blog-post-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        strategy="afterInteractive"
+      />
       <BlogHeader post={post} />
 
       <ReactMarkdown
