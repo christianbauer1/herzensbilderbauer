@@ -1,5 +1,5 @@
 import "server-only";
-import { readFileSync, readdirSync } from "fs";
+import { readFileSync, readdirSync, existsSync } from "fs";
 import { join } from "path";
 
 /**
@@ -8,7 +8,10 @@ import { join } from "path";
  */
 export type BlogPost = {
   id: number;
+  /** URL slug (from frontmatter or filename). */
   slug: string;
+  /** Filename without .md – used to resolve [slug] from generateStaticParams. */
+  fileSlug: string;
   title: string;
   description: string;
   creator: string;
@@ -26,6 +29,7 @@ export type BlogPostListItem = Pick<
   "id" | "slug" | "title" | "description" | "creator" | "previewImageUrl" | "createdAt"
 >;
 
+/** Content directory for blog markdown (works in Next 14 static export). */
 function getBlogDir(): string {
   return join(process.cwd(), "content", "blog");
 }
@@ -80,6 +84,7 @@ function parseMarkdownFile(filePath: string, slug: string, index: number): BlogP
 
   return {
     id: index,
+    fileSlug: slug,
     slug: (front.slug as string) ?? slug,
     title: (front.title as string) ?? "",
     description: (front.description as string) ?? "",
@@ -127,7 +132,7 @@ export function getAllPosts(): BlogPost[] {
 
 export function getPost(slug: string): BlogPost {
   const posts = loadAllPosts();
-  const post = posts.find((p) => p.slug === slug);
+  const post = posts.find((p) => p.slug === slug || p.fileSlug === slug);
   if (!post) throw new Error("Post not found!");
   return post;
 }

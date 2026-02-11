@@ -1,6 +1,8 @@
 import { BASE_URL } from "@/lib/constants";
 import { getAllPosts } from "@/lib/blog";
 
+export const dynamic = "force-static";
+
 export default async function sitemap() {
   const posts = await getAllPosts();
 
