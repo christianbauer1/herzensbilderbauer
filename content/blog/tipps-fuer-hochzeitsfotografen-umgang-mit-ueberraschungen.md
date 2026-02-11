@@ -3,7 +3,7 @@ slug: tipps-fuer-hochzeitsfotografen-umgang-mit-ueberraschungen
 title: Tipps für Hochzeitsfotografen: Umgang mit Überraschungen
 description: Flexibilität ist der Schlüssel für Hochzeitsfotografen! Erfahre, wie du mit Überraschungen umgehst und unvergessliche Momente festhältst. Entdecke Tipps für emotionale Fotos und die beste Vorbereitung.
 creator: Christian
-previewImageUrl: https://utfs.io/f/b70f8a45-e6ba-4be5-809a-5501b3c478c8-rhys8f.jpg
+previewImageUrl: /images/optimized/c896756958dc.jpg
 createdAt: 2024-03-15 18:36:39.066
 updatedAt: null
 categories: ["Flexibilität","Überraschungen","Emotionen","Vorbereitung","Hochzeitsfotografie"]

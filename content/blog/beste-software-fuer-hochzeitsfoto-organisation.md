@@ -3,7 +3,7 @@ slug: beste-software-fuer-hochzeitsfoto-organisation
 title: Beste Software für Hochzeitsfoto-Organisation
 description: Die beste Software für Hochzeitsfotografen: Entdecke, wie Bildbearbeitung, Verwaltungstools und Backup-Lösungen deine Arbeit optimieren und die Qualität deiner Fotos steigern.
 creator: Christian
-previewImageUrl: https://utfs.io/f/17632efb-7cfa-4aa6-9bd6-a6c368c97a85-yj7cpc.jpg
+previewImageUrl: /images/optimized/f9cb4c49d6f6.jpg
 createdAt: 2023-07-14 17:38:44.653
 updatedAt: null
 categories: ["Bildbearbeitung","Verwaltungstools","Backup-Lösungen","Qualitätsoptimierung","Fotografie-Software"]

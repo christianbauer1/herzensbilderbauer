@@ -3,7 +3,7 @@ slug: perfekte-hintergruende-fuer-beeindruckende-hochzeitsfotos
 title: Perfekte Hintergründe für beeindruckende Hochzeitsfotos
 description: Entdecke die perfekten Hintergründe für unvergessliche Hochzeitsfotos! Von Stränden über Schlösser bis zu urbanen Landschaften - finde den idealen Rahmen für deine Liebe.
 creator: Christian
-previewImageUrl: https://utfs.io/f/3a20d2be-a5d4-4618-8202-4a6ce08103e5-rv6n73.jpg
+previewImageUrl: /images/optimized/d460e1145140.jpg
 createdAt: 2023-09-28 17:22:09.949
 updatedAt: null
 categories: ["TraumhafteStrände","RomantischeSchlösser","StädtischeKulissen","Naturidylle","VintageLocations"]

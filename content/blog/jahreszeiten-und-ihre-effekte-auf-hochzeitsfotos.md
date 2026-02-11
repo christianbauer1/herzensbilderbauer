@@ -3,7 +3,7 @@ slug: jahreszeiten-und-ihre-effekte-auf-hochzeitsfotos
 title: Jahreszeiten und ihre Effekte auf Hochzeitsfotos
 description: Entdecke, wie die Wahl der Jahreszeit deine Hochzeitsfotos beeinflusst. Erfahre, welcher Charme von Frühling, Sommer, Herbst und Winter ausgeht und wie du unvergessliche Aufnahmen kreierst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/d1170bbe-2fcc-49cb-8eec-7ac775d3c1ca-hrwqlg.jpg
+previewImageUrl: /images/optimized/cf83926c2659.jpg
 createdAt: 2023-12-13 18:22:16.556
 updatedAt: null
 categories: ["Jahreszeiten","Fotostile","Farbpalette","Location","Stimmung"]

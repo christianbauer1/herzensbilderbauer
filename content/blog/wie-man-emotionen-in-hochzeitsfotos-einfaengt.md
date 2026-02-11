@@ -3,7 +3,7 @@ slug: wie-man-emotionen-in-hochzeitsfotos-einfaengt
 title: Wie man Emotionen in Hochzeitsfotos einfängt
 description: Entdecke, wie du als Hochzeitsfotograf Emotionen in jedem Bild einfängst. Von der Vorbereitung bis zur Nachbearbeitung - Tipps für unvergessliche Hochzeitsfotos!
 creator: Christian
-previewImageUrl: https://utfs.io/f/dd2d7c8a-cf01-4fb8-a97f-6a677b8362b2-q64tl7.jpg
+previewImageUrl: /images/optimized/b23352aa9a16.jpg
 createdAt: 2023-08-10 17:20:16.441
 updatedAt: null
 categories: ["Emotionen","Vorbereitung","Nachbearbeitung","Tipps","Hochzeitsfotos"]

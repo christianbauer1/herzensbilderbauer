@@ -3,7 +3,7 @@ slug: stressfrei-fotografieren-tipps-fuer-das-brautpaar-shooting
 title: Stressfrei Fotografieren: Tipps für das Brautpaar-Shooting
 description: Entdecke wertvolle Tipps für ein stressfreies Brautpaar-Shooting! Von der Planung bis zu entspannenden Pausen - so entstehen zauberhafte und authentische Hochzeitsfotos.
 creator: Christian
-previewImageUrl: https://utfs.io/f/a0750160-41d4-4132-8f09-4db321c3e426-ua1krd.jpg
+previewImageUrl: /images/optimized/a9596f5ba82e.jpg
 createdAt: 2024-02-12 18:20:11.438
 updatedAt: null
 categories: ["Planung","Pausen","Authentizität","Stressabbau","Zauberhaft"]

@@ -3,7 +3,7 @@ slug: erzaehle-deine-liebesgeschichte-durch-hochzeitsfotos
 title: Erzähle deine Liebesgeschichte durch Hochzeitsfotos
 description: Erzähle deine Liebesgeschichte durch Hochzeitsfotos. Finde den perfekten Hochzeitsfotografen, plane die Details und halte unvergessliche Momente fest. Deine Geschichte verdient es, für immer festgehalten zu werden.
 creator: Christian
-previewImageUrl: https://utfs.io/f/98d5828a-da2e-41be-bace-22639379ef53-ettrq.jpg
+previewImageUrl: /images/optimized/5bb2457917ad.jpg
 createdAt: 2023-08-04 17:45:22.072
 updatedAt: null
 categories: ["Hochzeitsfotograf","Hochzeitsplanung","Liebesgeschichte","UnvergesslicheMomente","PerfekteDetails"]

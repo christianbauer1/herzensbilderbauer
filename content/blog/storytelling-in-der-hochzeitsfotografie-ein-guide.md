@@ -3,7 +3,7 @@ slug: storytelling-in-der-hochzeitsfotografie-ein-guide
 title: Storytelling in der Hochzeitsfotografie: Ein Guide
 description: Entdecke, wie du mit Storytelling in der Hochzeitsfotografie unvergessliche Momente einfängst. Lerne, Emotionen, Details und Natürlichkeit zu vereinen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/471fae45-4f85-4950-9795-f35d233a4322-9ht963.jpg
+previewImageUrl: /images/optimized/ffd4dcba1032.jpg
 createdAt: 2024-02-19 18:28:54.848
 updatedAt: null
 categories: ["Storytelling","Emotionen","Details","Natürlichkeit","Hochzeitsfotografie"]

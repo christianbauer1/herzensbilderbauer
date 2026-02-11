@@ -3,7 +3,7 @@ slug: so-entstehen-magische-hochzeitsfotos-einblicke
 title: So entstehen magische Hochzeitsfotos: Einblicke!
 description: Magische Hochzeitsfotos für die Ewigkeit! Erfahre, warum die Wahl des richtigen Hochzeitsfotografen entscheidend ist und wie du dich optimal vorbereiten kannst. Tauche ein in die Welt der Hochzeitsfotografie!
 creator: Christian
-previewImageUrl: https://utfs.io/f/19465cf6-f1c8-4318-acdf-5810ab694c04-cp39og.jpg
+previewImageUrl: /images/optimized/3141d2da26a5.jpg
 createdAt: 2023-12-17 18:14:04.989
 updatedAt: null
 categories: ["Hochzeitsfotograf","Vorbereitung","Magie","Ewigkeit","Tipps"]

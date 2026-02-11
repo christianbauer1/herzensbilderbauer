@@ -3,7 +3,7 @@ slug: farbpsychologie-in-der-hochzeitsfotografie-verstehen
 title: Farbpsychologie in der Hochzeitsfotografie verstehen
 description: Entdecke die magische Welt der Farbpsychologie in der Hochzeitsfotografie. Erfahre, wie Farben Emotionen und Stimmungen einfangen können, um unvergessliche Hochzeitsfotos zu kreieren.
 creator: Christian
-previewImageUrl: https://utfs.io/f/b03fb333-8f90-4e28-a0f1-47300676a3c3-20l05m.jpg
+previewImageUrl: /images/optimized/a282959e25bf.jpg
 createdAt: 2023-11-17 18:29:00.217
 updatedAt: null
 categories: ["Farbpsychologie","Emotionen","Stimmungen","Hochzeitsfotos","Kreativität"]

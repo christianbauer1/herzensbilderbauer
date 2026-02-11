@@ -3,7 +3,7 @@ slug: urban-hochzeitsfotografie-tipps-fuer-street-style
 title: Urban Hochzeitsfotografie: Tipps für Street Style
 description: Entdecke die Magie der urbanen Hochzeitsfotografie! Tipps für Street Style, Standortwahl, Outfits, Lichtverhältnisse, Posing und Trends 2023. Lass deine Liebe in der Stadt strahlen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/31f8a251-2919-44f1-a579-6286166e11ad-cm4v9a.jpg
+previewImageUrl: /images/optimized/08c97dc077ca.jpg
 createdAt: 2023-09-01 17:34:41.294
 updatedAt: null
 categories: ["Streetstyle","Standortwahl","Outfits","Lichtverhältnisse","Trends"]

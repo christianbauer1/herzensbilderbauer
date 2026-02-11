@@ -3,7 +3,7 @@ slug: kreative-hochzeitsauto-fotoideen-fuer-die-fahrt
 title: Kreative Hochzeitsauto-Fotoideen für die Fahrt
 description: Entdecke kreative Hochzeitsauto-Fotoideen für unvergessliche Erinnerungen. Nutze das Auto als Symbol für Eure Liebe und startet Eure gemeinsame Reise stilvoll.
 creator: Christian
-previewImageUrl: https://utfs.io/f/4c12a47a-6915-4738-94fd-aea70f57059c-8aforg.jpg
+previewImageUrl: /images/optimized/a911a5372dab.jpg
 createdAt: 2023-08-23 17:41:02.501
 updatedAt: null
 categories: ["Kreativität","Liebesgeschichte","Stilvoll","Erinnerungen","Fotografie"]

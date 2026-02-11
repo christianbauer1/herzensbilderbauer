@@ -3,7 +3,7 @@ slug: perfekte-hochzeitslocation-finden-tipps-tricks
 title: Perfekte Hochzeitslocation finden: Tipps & Tricks
 description: Finde die perfekte Hochzeitslocation mit unseren Tipps! Erfahre, wie du deinen Stil definierst, die Gästezahl berücksichtigst und versteckte Kosten vermeidest. Lass dich von Bewertungen und Empfehlungen inspirieren. Buche jetzt deine Traumlocation!
 creator: Christian
-previewImageUrl: https://utfs.io/f/434f16ff-993b-4601-a48c-ca516e7ff923-djip2k.jpg
+previewImageUrl: /images/optimized/cf103386f122.jpg
 createdAt: 2023-07-06 17:16:19.2
 updatedAt: null
 categories: ["Stilfindung","Gästezahl","Kosten","Bewertungen","Inspiration"]

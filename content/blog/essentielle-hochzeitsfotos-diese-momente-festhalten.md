@@ -3,7 +3,7 @@ slug: essentielle-hochzeitsfotos-diese-momente-festhalten
 title: Essentielle Hochzeitsfotos: Diese Momente festhalten
 description: Unvergessliche Hochzeitsfotos einfangen: Erfahre, warum professionelle Hochzeitsfotos die Emotionen, Liebe und Schönheit deines besonderen Tages für immer festhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/ae80dd30-4b9d-43ea-94ab-82cb503ddc28-18s69l.jpg
+previewImageUrl: /images/optimized/c676f9b2d172.jpg
 createdAt: 2023-12-21 18:18:11.044
 updatedAt: null
 categories: ["Emotionen","Liebe","Schönheit","Professionell","Festhalten"]

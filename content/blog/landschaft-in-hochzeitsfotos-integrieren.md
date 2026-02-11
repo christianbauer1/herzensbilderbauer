@@ -3,7 +3,7 @@ slug: landschaft-in-hochzeitsfotos-integrieren
 title: Landschaft in Hochzeitsfotos integrieren
 description: Entdecke, wie du die Landschaft in Hochzeitsfotos integrieren kannst, um Emotionen zu verstärken und Erinnerungen unvergesslich zu machen. Tipps und Tricks für unvergessliche Bilder!
 creator: Christian
-previewImageUrl: https://utfs.io/f/573b958d-9ff7-46a0-b85f-83addf9d7fca-iaiy0a.jpg
+previewImageUrl: /images/optimized/9376873e4141.jpg
 createdAt: 2023-07-02 17:38:50.759
 updatedAt: null
 categories: ["Landschaftsfotografie","Emotionen","Erinnerungen","Tipps","Tricks"]

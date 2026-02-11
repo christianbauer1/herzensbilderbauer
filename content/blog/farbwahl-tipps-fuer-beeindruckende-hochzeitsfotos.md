@@ -3,7 +3,7 @@ slug: farbwahl-tipps-fuer-beeindruckende-hochzeitsfotos
 title: Farbwahl-Tipps für beeindruckende Hochzeitsfotos
 description: Entdecke, wie die richtige Farbwahl deine Hochzeitsfotos verzaubern kann! Von romantischen Pastelltönen bis zu mutigen Kontrasten - erschaffe unvergessliche Kunstwerke für deinen besonderen Tag.
 creator: Christian
-previewImageUrl: https://utfs.io/f/7205a68e-7671-4500-9a46-de21c5fbd33b-57xsil.jpg
+previewImageUrl: /images/optimized/8fb27ea27fd7.jpg
 createdAt: 2023-09-28 17:45:06.075
 updatedAt: null
 categories: ["Farbpsychologie","Stimmung","Kreativität","Harmonie","Ästhetik"]

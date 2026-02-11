@@ -3,7 +3,7 @@ slug: vintage-und-moderne-trends-in-der-hochzeitsfotografie
 title: Vintage und Moderne: Trends in der Hochzeitsfotografie
 description: Entdecke die faszinierende Welt der Hochzeitsfotografie, in der Vintage und Moderne verschmelzen. Erfahre, wie du mit kreativen Techniken und Trends deine einzigartigen Erinnerungen festhalten kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/62d021c4-0254-442c-a181-1d4eab14a46b-ebxti6.jpg
+previewImageUrl: /images/optimized/0709b3e37fd7.jpg
 createdAt: 2024-04-05 17:18:14.922
 updatedAt: null
 categories: ["Vintage","Moderne","Kreative Techniken","Trends","Einzigartig"]

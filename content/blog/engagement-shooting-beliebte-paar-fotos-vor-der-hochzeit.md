@@ -3,7 +3,7 @@ slug: engagement-shooting-beliebte-paar-fotos-vor-der-hochzeit
 title: Engagement Shooting: Beliebte Paar-Fotos vor der Hochzeit
 description: Entdecke die Magie des Engagement Shootings! Lass dich von unseren Tipps inspirieren, wie du mit natürlichen Posen und dem richtigen Licht die Vorfreude auf eure Hochzeit steigern kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/246869c6-7305-4172-9349-16b055dc3a01-grblk.jpg
+previewImageUrl: /images/optimized/07df639fc380.jpg
 createdAt: 2023-07-22 17:20:06.946
 updatedAt: null
 categories: ["Posen","Lichtstimmung","Vorfreude","Natürlich","Inspiration"]

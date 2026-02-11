@@ -3,7 +3,7 @@ slug: cutting-of-the-cake-fotografie-tipps-fuer-besondere-momente
 title: Cutting of the Cake: Fotografie-Tipps für besondere Momente
 description: Entdecke, wie du als Hochzeitsfotograf den magischen Moment des Kuchenschneidens einfängst. Tipps zu Ausrüstung, Einstellungen, Positionierung, Licht, Emotionen, Timing, Perspektiven und Bildbearbeitung.
 creator: Christian
-previewImageUrl: https://utfs.io/f/ac9650b4-b421-42e7-a699-1259a8219186-i07qdh.jpg
+previewImageUrl: /images/optimized/ccc9aaf1727f.jpg
 createdAt: 2024-04-09 17:32:19.487
 updatedAt: null
 categories: ["Ausrüstung","Licht","Emotionen","Perspektiven","Bildbearbeitung"]

@@ -3,7 +3,7 @@ slug: 7-hochzeitsdetails-fuer-eine-unvergessliche-feier
 title: 7 Hochzeitsdetails für eine unvergessliche Feier!
 description: Entdecke die 7 wichtigsten Hochzeitsdetails, die deine Feier unvergesslich machen! Von perfektem Ort bis hin zur Fotografie - Tipps für eine magische Hochzeit.
 creator: Christian
-previewImageUrl: https://utfs.io/f/fac4060c-21db-44e2-a53e-0fd45c772647-8qv38g.jpg
+previewImageUrl: /images/optimized/7b3270b9c184.jpg
 createdAt: 2023-09-23 08:38:43.636
 updatedAt: null
 categories: ["Location","Dekoration","Fotografie","Planung","Styling"]

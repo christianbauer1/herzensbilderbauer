@@ -3,7 +3,7 @@ slug: emotionen-einfangen-traenen-in-hochzeitsfotos
 title: Emotionen einfangen: Tränen in Hochzeitsfotos
 description: Erlebe die Magie echter Emotionen auf Hochzeitsfotos. Erfahre, warum Tränen so einzigartig sind und wie du dich als Paar vorbereiten kannst. Lass dich von unvergesslichen Momenten berühren!
 creator: Christian
-previewImageUrl: https://utfs.io/f/e007bdb7-394d-4c5d-b9ea-32b3d4aabb52-a2r7fs.jpg
+previewImageUrl: /images/optimized/04c9eb5c8445.jpg
 createdAt: 2024-04-19 17:32:19.805
 updatedAt: null
 categories: ["Emotionen","Tränen","Paarvorbereitung","UnvergesslicheMomente","Hochzeitsfotografie"]

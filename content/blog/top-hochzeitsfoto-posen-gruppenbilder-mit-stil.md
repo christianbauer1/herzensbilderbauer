@@ -3,7 +3,7 @@ slug: top-hochzeitsfoto-posen-gruppenbilder-mit-stil
 title: Top Hochzeitsfoto-Posen: Gruppenbilder mit Stil!
 description: Entdecke die besten Tipps für stilvolle Gruppenbilder bei deiner Hochzeit! Erfahre, wie du planst, posierst und das perfekte Licht nutzt. Lass deine Erinnerungen lebendig werden.
 creator: Christian
-previewImageUrl: https://utfs.io/f/e02519f3-d027-4cef-9303-f520eae85d52-rlte89.jpg
+previewImageUrl: /images/optimized/f2c08d986da1.jpg
 createdAt: 2024-04-16 17:16:13.776
 updatedAt: null
 categories: ["Planung","Posing","Lichtsetzung","Gruppenbilder","Erinnerungen"]

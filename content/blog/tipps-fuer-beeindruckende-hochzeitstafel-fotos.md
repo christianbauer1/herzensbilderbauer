@@ -3,7 +3,7 @@ slug: tipps-fuer-beeindruckende-hochzeitstafel-fotos
 title: Tipps für beeindruckende Hochzeitstafel-Fotos
 description: Entdecke wichtige Tipps für beeindruckende Hochzeitstafel-Fotos! Von Belichtung bis zur Bearbeitung - so gelingen dir unvergessliche Aufnahmen voller Liebe und Emotionen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/eb6a0e19-6776-4b22-b14a-d0798ecab53b-f4pax0.jpg
+previewImageUrl: /images/optimized/d46fe1286bfb.jpg
 createdAt: 2023-08-23 17:34:21.011
 updatedAt: null
 categories: ["Belichtung","Bearbeitung","Emotionen","Liebe","Hochzeitstafel"]

@@ -3,7 +3,7 @@ slug: hauttoene-in-hochzeitsfotos-perfektionieren
 title: Hauttöne in Hochzeitsfotos perfektionieren
 description: Entdecke, wie du als Hochzeitsfotograf die Kunst der Hauttonperfektionierung beherrschst. Lerne, wie Licht, Belichtung und Post-Processing die Hauttöne auf Hochzeitsfotos zum Strahlen bringen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9b5bca99-caef-4501-934d-3c315bf03309-yh43h2.jpg
+previewImageUrl: /images/optimized/d8a80fea96c1.jpg
 createdAt: 2023-06-06 17:16:07.308
 updatedAt: null
 categories: ["Hautton","Lichtführung","Belichtung","Post-Processing","Hochzeitsfotos"]

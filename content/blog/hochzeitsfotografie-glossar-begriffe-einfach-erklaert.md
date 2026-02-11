@@ -3,7 +3,7 @@ slug: hochzeitsfotografie-glossar-begriffe-einfach-erklaert
 title: Hochzeitsfotografie-Glossar: Begriffe einfach erklärt
 description: Finde den perfekten Hochzeitsfotografen! Erfahre alles über Engagement-Fotos, Bridal Portraits, First Look Momente, Candid Shots und technische Begriffe. Wähle den Stil, der zu dir passt und achte auf die richtige Ausrüstung.
 creator: Christian
-previewImageUrl: https://utfs.io/f/19cb3c12-4b9a-4834-994b-e1e87b867120-j83vmm.jpg
+previewImageUrl: /images/optimized/ffd5859b18e0.jpg
 createdAt: 2024-02-19 18:22:25.483
 updatedAt: null
 categories: ["Engagement","Bridal","First Look","Candid","Ausrüstung"]

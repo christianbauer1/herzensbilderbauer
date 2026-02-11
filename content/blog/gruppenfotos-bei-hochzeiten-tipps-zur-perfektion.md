@@ -3,7 +3,7 @@ slug: gruppenfotos-bei-hochzeiten-tipps-zur-perfektion
 title: Gruppenfotos bei Hochzeiten: Tipps zur Perfektion
 description: Entdecke die Geheimnisse perfekter Gruppenfotos bei Hochzeiten! Erfahre, wie Planung, Positionierung und Kreativität unvergessliche Bilder schaffen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/3f778f11-294b-4cc4-ac57-e0458595fdd7-llgwu6.jpg
+previewImageUrl: /images/optimized/d6ef7d209add.jpg
 createdAt: 2023-10-28 17:32:19.163
 updatedAt: null
 categories: ["Planung","Positionierung","Kreativität","Gruppenfotos","Hochzeiten"]

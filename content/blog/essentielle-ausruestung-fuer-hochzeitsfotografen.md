@@ -3,7 +3,7 @@ slug: essentielle-ausruestung-fuer-hochzeitsfotografen
 title: Essentielle Ausrüstung für Hochzeitsfotografen
 description: Entdecke die essentielle Ausrüstung für Hochzeitsfotografen: Kameras, Objektive, Blitzgeräte, Speicherkarten und mehr. Investiere in Qualität für unvergessliche Momente!
 creator: Christian
-previewImageUrl: https://utfs.io/f/f9f767ab-87af-4c37-a8cc-02fd007b18df-ochb5x.jpg
+previewImageUrl: /images/optimized/21db95918917.jpg
 createdAt: 2023-09-14 17:22:18.146
 updatedAt: null
 categories: ["Kameras","Objektive","Blitzgeräte","Speicherkarten","Qualität"]

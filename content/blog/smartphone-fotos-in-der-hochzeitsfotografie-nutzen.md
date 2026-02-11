@@ -3,7 +3,7 @@ slug: smartphone-fotos-in-der-hochzeitsfotografie-nutzen
 title: Smartphone-Fotos in der Hochzeitsfotografie nutzen
 description: Entdecke, wie Smartphone-Fotos die Hochzeitsfotografie bereichern können. Erfahre, warum sie eine wertvolle Ergänzung sind und wie du sie optimal nutzen kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/4c2e7b65-415d-4645-9f8f-d818fd6880cc-gqm4x4.jpg
+previewImageUrl: /images/optimized/127fd8617801.jpg
 createdAt: 2024-03-28 18:34:17.892
 updatedAt: null
 categories: ["Smartphonefotografie","Hochzeitsfotografie","Kreativität","Technologie","Fotografie-Tipps"]

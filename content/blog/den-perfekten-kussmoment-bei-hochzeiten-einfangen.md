@@ -3,7 +3,7 @@ slug: den-perfekten-kussmoment-bei-hochzeiten-einfangen
 title: Den perfekten Kussmoment bei Hochzeiten einfangen
 description: Erlebe die Magie des perfekten Kussmoments bei Hochzeiten! Erfahre, wie du als Fotograf die Emotionen einfängst und den Moment für die Ewigkeit festhältst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/0695bdad-4fdf-4ab8-8c18-8aade473e526-zhi118.jpg
+previewImageUrl: /images/optimized/6800b2a03152.jpg
 createdAt: 2023-05-20 17:28:58.605
 updatedAt: null
 categories: ["Emotionen","Kussmoment","Hochzeitsfotografie","Magie","Ewigkeit"]

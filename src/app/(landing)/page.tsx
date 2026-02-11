@@ -29,7 +29,7 @@ export default function HomePage() {
         },
         imgUrl: "/images/hero.jpg",
         videoUrl:
-          "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/kevshort.mp4?alt=media&token=7b4ac37f-52ea-4f37-add1-4a9454bfd715",
+          "/videos/kevshort.mp4",
       }}
       portfolio={{
         heading: {

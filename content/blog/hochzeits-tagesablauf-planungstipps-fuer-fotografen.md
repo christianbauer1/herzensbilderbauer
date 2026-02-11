@@ -3,7 +3,7 @@ slug: hochzeits-tagesablauf-planungstipps-fuer-fotografen
 title: Hochzeits-Tagesablauf: Planungstipps für Fotografen
 description: Entdecke, wie du als Hochzeitsfotograf den perfekten Tagesablauf planst, um magische Bilder zu kreieren. Tipps für Vorbereitung, Kommunikation, Zeremonie, Empfang und mehr!
 creator: Christian
-previewImageUrl: https://utfs.io/f/347dffe5-675d-4f3d-bbce-5fcd92589e46-wreq80.jpg
+previewImageUrl: /images/optimized/901f9934c5d7.jpg
 createdAt: 2023-12-03 18:28:58.655
 updatedAt: null
 categories: ["Tagesablauf","Vorbereitung","Kommunikation","Zeremonie","Empfang"]

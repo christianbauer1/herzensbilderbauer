@@ -3,7 +3,7 @@ slug: goldene-stunde-beste-zeit-fuer-hochzeitsfotos-planen
 title: Goldene Stunde: Beste Zeit für Hochzeitsfotos planen
 description: Entdecke, warum die goldene Stunde perfekt für Hochzeitsfotos ist. Erfahre, wie du das magische Licht optimal nutzt und unvergessliche Aufnahmen schaffst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/568077cd-aae4-446a-ad10-e8724278b961-591yac.jpg
+previewImageUrl: /images/optimized/5d4c631d8559.jpg
 createdAt: 2024-01-08 18:40:47.129
 updatedAt: null
 categories: ["Goldene Stunde","Magisches Licht","Hochzeitsfotos","Fotografie-Tipps","Lichtstimmung"]

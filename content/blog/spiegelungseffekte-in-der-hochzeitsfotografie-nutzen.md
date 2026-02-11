@@ -3,7 +3,7 @@ slug: spiegelungseffekte-in-der-hochzeitsfotografie-nutzen
 title: Spiegelungseffekte in der Hochzeitsfotografie nutzen
 description: Entdecke die Magie von Spiegelungseffekten in der Hochzeitsfotografie! Erfahre, wie du mit Wasser, Glas und Licht emotionale und einzigartige Bilder kreieren kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/205e49cc-2b1e-4e29-90f2-f4317d0274e4-ief8bf.jpg
+previewImageUrl: /images/optimized/8e317cc05ec6.jpg
 createdAt: 2024-03-24 18:40:58.017
 updatedAt: null
 categories: ["Spiegelungseffekte","Wasser","Glas","Licht","Emotionen"]

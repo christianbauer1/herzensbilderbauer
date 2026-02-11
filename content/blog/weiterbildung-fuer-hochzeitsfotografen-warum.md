@@ -3,7 +3,7 @@ slug: weiterbildung-fuer-hochzeitsfotografen-warum
 title: Weiterbildung für Hochzeitsfotografen: Warum?
 description: Entdecke, warum Weiterbildung für Hochzeitsfotografen entscheidend ist. Aktuelle Trends, technische Fähigkeiten, Kreativität und Networking für deinen Erfolg!
 creator: Christian
-previewImageUrl: https://utfs.io/f/b9b0edee-5f16-4882-bfda-c565180a0516-aw5s5r.jpg
+previewImageUrl: /images/optimized/3118f1c79f9d.jpg
 createdAt: 2024-05-04 17:38:46.79
 updatedAt: null
 categories: ["Trends","Technik","Kreativität","Networking","Erfolg"]

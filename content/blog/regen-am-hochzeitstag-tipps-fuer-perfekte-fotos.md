@@ -3,7 +3,7 @@ slug: regen-am-hochzeitstag-tipps-fuer-perfekte-fotos
 title: Regen am Hochzeitstag: Tipps für perfekte Fotos
 description: Entdecke, wie Regen deine Hochzeitsfotos verzaubern kann! Erfahre, wie du dich vorbereitest, kreative Ideen umsetzt und geschützt bleibst. Lass den Regen den Zauber deiner Liebe einfangen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/257b0e8b-a2ed-47bb-b179-0fa06754e267-k2qo7j.jpg
+previewImageUrl: /images/optimized/f428ed0f2817.jpg
 createdAt: 2023-08-03 17:18:06.879
 updatedAt: null
 categories: ["Regenfotografie","Vorbereitung","Kreative Ideen","Urheberrecht","Liebeszauber"]

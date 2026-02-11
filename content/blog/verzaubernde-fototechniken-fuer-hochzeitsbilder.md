@@ -3,7 +3,7 @@ slug: verzaubernde-fototechniken-fuer-hochzeitsbilder
 title: Verzaubernde Fototechniken für Hochzeitsbilder!
 description: Entdecke verzaubernde Fototechniken für Hochzeitsbilder! Erfahre, wie du die Magie der Hochzeitsfotografie einfängst und emotionale Momente für die Ewigkeit festhältst. Bereit, die Magie einzufangen?
 creator: Christian
-previewImageUrl: https://utfs.io/f/c82571d8-eb4d-4f1b-aa7d-1c2ee5c0c101-q4vpd9.jpg
+previewImageUrl: /images/optimized/ded37382fd4c.jpg
 createdAt: 2024-02-06 18:14:03.752
 updatedAt: null
 categories: ["Kreativität","Lichtspiel","Emotionen","Perspektive","Detailaufnahmen"]

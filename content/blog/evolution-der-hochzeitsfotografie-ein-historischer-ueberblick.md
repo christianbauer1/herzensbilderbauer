@@ -3,7 +3,7 @@ slug: evolution-der-hochzeitsfotografie-ein-historischer-ueberblick
 title: Evolution der Hochzeitsfotografie: Ein historischer Überblick
 description: Entdecke die faszinierende Evolution der Hochzeitsfotografie von den Anfängen bis heute. Erfahre, wie die Kunst, Liebe festzuhalten, sich im Laufe der Zeit verändert hat.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9d4cafc1-bca1-443c-b82d-0086fd480bd2-kfxph.jpg
+previewImageUrl: /images/optimized/9cf0efc17ac3.jpg
 createdAt: 2024-04-02 17:18:11.2
 updatedAt: null
 categories: ["Historie","Technologie","Trends","Emotionen","Inspiration"]

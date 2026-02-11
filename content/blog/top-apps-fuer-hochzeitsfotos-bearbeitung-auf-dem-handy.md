@@ -3,7 +3,7 @@ slug: top-apps-fuer-hochzeitsfotos-bearbeitung-auf-dem-handy
 title: Top Apps für Hochzeitsfotos: Bearbeitung auf dem Handy
 description: Entdecke die Top Apps für die Bearbeitung deiner Hochzeitsfotos direkt auf deinem Handy! Von professionellen Tools bis zu stilvollen Filtern - verleihe deinen Bildern den perfekten Glanz.
 creator: Christian
-previewImageUrl: https://utfs.io/f/0051b050-94fb-465d-af8f-603899aafedf-h7ra2g.jpg
+previewImageUrl: /images/optimized/0051d8fba2ed.jpg
 createdAt: 2024-03-26 18:18:13.206
 updatedAt: null
 categories: ["Fotobearbeitung","Handyapps","Filter","Hochzeitsfotos","Professionell"]

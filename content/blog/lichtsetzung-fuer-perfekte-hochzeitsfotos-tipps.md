@@ -3,7 +3,7 @@ slug: lichtsetzung-fuer-perfekte-hochzeitsfotos-tipps
 title: Lichtsetzung für perfekte Hochzeitsfotos: Tipps!
 description: Entdecke die Bedeutung der Lichtsetzung für perfekte Hochzeitsfotos! Erfahre, wie du natürliche und künstliche Lichtquellen optimal nutzt, um unvergessliche Erinnerungen festzuhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/92165130-0ddb-48df-a0e4-0fe54411c1c8-ulisbg.jpg
+previewImageUrl: /images/optimized/f9bd696873fd.jpg
 createdAt: 2023-11-21 18:14:02.453
 updatedAt: null
 categories: ["Lichtsetzung","Natürliches Licht","Künstliche Lichtquellen","Erinnerungen","Hochzeitsfotos"]

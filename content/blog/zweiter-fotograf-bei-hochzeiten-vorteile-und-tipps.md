@@ -3,7 +3,7 @@ slug: zweiter-fotograf-bei-hochzeiten-vorteile-und-tipps
 title: Zweiter Fotograf bei Hochzeiten: Vorteile und Tipps
 description: Ein zweiter Fotograf bei deiner Hochzeit? Erfahre, warum es sich lohnt! Verschiedene Perspektiven, mehr Abdeckung und stressfreier Ablauf. Investiere in unvergessliche Erinnerungen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/a7ae3b0a-66cb-4f7c-962d-aefa2dbf65b7-smvc64.jpg
+previewImageUrl: /images/optimized/d3fdf933c159.jpg
 createdAt: 2024-01-18 18:20:15.198
 updatedAt: null
 categories: ["ZweiterFotograf","VerschiedenePerspektiven","MehrAbdeckung","StressfreierAblauf","UnvergesslicheErinnerungen"]

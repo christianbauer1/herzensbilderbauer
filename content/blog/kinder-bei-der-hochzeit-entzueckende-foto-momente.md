@@ -3,7 +3,7 @@ slug: kinder-bei-der-hochzeit-entzueckende-foto-momente
 title: Kinder bei der Hochzeit: Entzückende Foto-Momente
 description: Entdecke die Magie von Kinderfotos auf Hochzeiten! Erfahre, wie du entzückende Momente einfängst und unvergessliche Geschichten für dein Hochzeitsalbum schaffst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/3743afd3-1005-4fdf-b09f-1eefb3d2f5d5-o3e9p8.jpg
+previewImageUrl: /images/optimized/423682d90280.jpg
 createdAt: 2023-11-30 18:12:16.439
 updatedAt: null
 categories: ["Kinderfotografie","Hochzeitsmomente","Emotionen","Fotostorytelling","Hochzeitsalbum"]

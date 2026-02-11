@@ -3,7 +3,7 @@ slug: farbgestaltung-ihre-bedeutung-in-hochzeitsfotos
 title: Farbgestaltung: Ihre Bedeutung in Hochzeitsfotos
 description: Entdecke die Bedeutung von Farben in der Hochzeitsfotografie! Erfahre, wie Farben Emotionen verstärken und die Atmosphäre beeinflussen können. Finde die perfekte Farbpalette für unvergessliche Hochzeitsfotos!
 creator: Christian
-previewImageUrl: https://utfs.io/f/308e44ff-04e9-480e-93c8-6a360896ce2a-kivlrm.jpg
+previewImageUrl: /images/optimized/b02a4ac63e65.jpg
 createdAt: 2023-12-04 18:22:11.208
 updatedAt: null
 categories: ["Farbpsychologie","Farbharmonie","Stimmung","Farbkontraste","Farbauswahl"]

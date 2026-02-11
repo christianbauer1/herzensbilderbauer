@@ -3,7 +3,7 @@ slug: zeitplanung-fuer-hochzeitsfotos-ein-leitfaden
 title: Zeitplanung für Hochzeitsfotos: Ein Leitfaden
 description: Mit einer durchdachten Zeitplanung für Hochzeitsfotos sicherst du dir unvergessliche Momente für die Ewigkeit. Erfahre, wie du Stress vermeidest und deine Liebe perfekt in Szene setzt!
 creator: Christian
-previewImageUrl: https://utfs.io/f/8bc9b69c-27c3-437e-9ea1-0087f06e4797-olf652.jpg
+previewImageUrl: /images/optimized/551ea767b746.jpg
 createdAt: 2023-11-27 18:22:17.128
 updatedAt: null
 categories: ["Zeitplanung","Hochzeitsfotos","Stressvermeidung","Liebeinszene","Unvergesslich"]

@@ -3,7 +3,7 @@ slug: minimalistische-hochzeitsfotos-trends-und-techniken
 title: Minimalistische Hochzeitsfotos: Trends und Techniken
 description: Entdecke die zeitlose Eleganz von minimalistischen Hochzeitsfotos. Erfahre, wie du mit wenigen Elementen die Liebe perfekt einfängst. Finde Techniken, Trends und die perfekte Location!
 creator: Christian
-previewImageUrl: https://utfs.io/f/94343e0a-e2c0-4962-af71-0d361a5c4bec-ww0g65.jpg
+previewImageUrl: /images/optimized/2cb54d9a6dfe.jpg
 createdAt: 2024-02-06 18:26:36.915
 updatedAt: null
 categories: ["Minimalismus","Liebesmomente","Fototechniken","Trendfotografie","Traumlocation"]

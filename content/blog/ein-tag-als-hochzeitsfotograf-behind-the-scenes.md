@@ -3,7 +3,7 @@ slug: ein-tag-als-hochzeitsfotograf-behind-the-scenes
 title: Ein Tag als Hochzeitsfotograf: Behind-the-Scenes
 description: Erlebe einen Tag als Hochzeitsfotograf hautnah! Erfahre, wie Schlüsselmomente eingefangen werden und welche Herausforderungen gemeistert werden. Tauche ein in die Welt der kreativen Fotografie und der Zusammenarbeit mit Brautpaar und Gästen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/fb31c6f6-b370-40a9-98e2-865d66db6bbe-zfo001.jpg
+previewImageUrl: /images/optimized/0b43d5d9c253.jpg
 createdAt: 2023-09-06 17:36:41.39
 updatedAt: null
 categories: ["Schlüsselmomente","Herausforderungen","kreative Fotografie","Zusammenarbeit","Brautpaar"]

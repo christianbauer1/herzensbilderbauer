@@ -3,7 +3,7 @@ slug: timing-in-der-hochzeitsfotografie-warum-es-wichtig-ist
 title: Timing in der Hochzeitsfotografie: Warum es wichtig ist
 description: Entdecke, warum Timing in der Hochzeitsfotografie entscheidend ist. Erfahre, wie du magische Momente perfekt einfängst und deinen Hochzeitstag optimal planst. Lass dich von Profi-Tipps inspirieren!
 creator: Christian
-previewImageUrl: https://utfs.io/f/16866705-aa8e-40c6-bcae-006c6700b485-yg05qa.jpg
+previewImageUrl: /images/optimized/11f7f1401b51.jpg
 createdAt: 2023-06-07 17:26:54.418
 updatedAt: null
 categories: ["Timing","Magische Momente","Hochzeitsplanung","Profi-Tipps","Inspiration"]

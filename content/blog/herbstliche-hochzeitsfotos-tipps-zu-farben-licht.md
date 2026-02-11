@@ -3,7 +3,7 @@ slug: herbstliche-hochzeitsfotos-tipps-zu-farben-licht
 title: Herbstliche Hochzeitsfotos: Tipps zu Farben & Licht
 description: Entdecke die Magie herbstlicher Hochzeitsfotos mit warmen Farben und optimalem Licht. Tipps für die perfekte Uhrzeit, Location und Kleidung für unvergessliche Aufnahmen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/01c83b3c-ea7f-4dc2-a9f6-745fbcef89e1-l50nzz.jpg
+previewImageUrl: /images/optimized/f5c6c07b8f85.jpg
 createdAt: 2023-06-27 17:34:22.841
 updatedAt: null
 categories: ["Herbstzauber","Lichtstimmung","Locationwahl","Kleiderwahl","Fototipps"]

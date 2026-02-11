@@ -3,7 +3,7 @@ slug: foto-bearbeitung-hochzeitsbilder-professionell-optimieren
 title: Foto-Bearbeitung: Hochzeitsbilder professionell optimieren!
 description: Professionelle Bildbearbeitung für Hochzeitsfotos: Erfahre, wie du mit einfachen Schritten deine Bilder zu wahren Meisterwerken machen kannst. Entdecke die Welt der Foto-Bearbeitung!
 creator: Christian
-previewImageUrl: https://utfs.io/f/db17005d-4e03-4d24-9ccd-0691b340932c-1fwuey.jpg
+previewImageUrl: /images/optimized/6bd93769eced.jpg
 createdAt: 2024-04-21 17:14:13.824
 updatedAt: null
 categories: ["Bildbearbeitung","Fotoretusche","Filtertechniken","Farbkorrekturen","Kreativität"]

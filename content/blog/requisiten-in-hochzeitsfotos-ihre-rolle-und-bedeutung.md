@@ -3,7 +3,7 @@ slug: requisiten-in-hochzeitsfotos-ihre-rolle-und-bedeutung
 title: Requisiten in Hochzeitsfotos: Ihre Rolle und Bedeutung
 description: Entdecke, wie Requisiten in der Hochzeitsfotografie deine Fotos zum Leben erwecken können. Tipps zur Auswahl, Integration und persönlichen Note.
 creator: Christian
-previewImageUrl: https://utfs.io/f/6dcc3e99-d75a-40ee-8c45-bf8191c57200-pzsvzv.jpg
+previewImageUrl: /images/optimized/cec374e5d48e.jpg
 createdAt: 2024-02-26 18:27:00.793
 updatedAt: null
 categories: ["Requisiten","Kreativität","Inspiration","Fotostyling","Persönlichkeit"]

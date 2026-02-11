@@ -32,9 +32,9 @@ export const REVIEWS: TestimonialProps[] = [
     year: 2024,
     location: "Regensburg",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/27-mona-und-niko-10-11-2024-regensburg%2F_one_customer_image%2Fmona%26nico10112024-21.jpg?alt=media&token=7056ed66-b86b-4648-a030-831cff3ef714",
+      "/images/optimized/7c5a8af48df1.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/mona.mp4?alt=media&token=8dabdb34-b273-4458-9556-b91b4d850e9f",
+      "/videos/mona.mp4",
   },
   {
     type: "Whatsapp",
@@ -43,9 +43,9 @@ export const REVIEWS: TestimonialProps[] = [
     year: 2024,
     location: "Feuchtwangen",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/3-selina-und-berkan-28-09-2024-feuchtwangen%2F_one_customer_image%2FSelina%26berkan_28092024_firstLook-11.jpg?alt=media&token=fa127ee3-3130-46f9-bf95-0f7abc9a5c20",
+      "/images/optimized/ed666f1ba777.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/berkan.mp4?alt=media&token=c9e25d28-af9f-4a50-8aa1-7f99164e1ad2",
+      "/videos/berkan.mp4",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/ZQUAc8AucBHwrsFp7",
@@ -55,9 +55,9 @@ export const REVIEWS: TestimonialProps[] = [
     year: 2024,
     location: "Ingolstadt",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/22-sarah-und-waldemar-22-06-2024-ingolstadt%2F_one_customer_image%2FLori%20Dejong%20Foto.jpg?alt=media&token=28faa55d-3ed2-43f1-9a08-45d43607526f",
+      "/images/optimized/420f09505ee7.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/waldemar.mp4?alt=media&token=80bcd623-5d66-437e-9555-2f83d2213016",
+      "/videos/waldemar.mp4",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/bwHkbP1cyjaq1GJs9",
@@ -67,9 +67,9 @@ export const REVIEWS: TestimonialProps[] = [
     year: 2024,
     location: "Kerpen",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/21-anette-und-michael-12-05-2024-ulm%2F_one_customer_image%2FLena%20von%20Unsplash.jpg?alt=media&token=b762891c-a73b-4366-9772-6778e7ba5811",
+      "/images/optimized/ea3663056eba.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/tobias.mp4?alt=media&token=c0fe3c2d-1a4b-4f97-9c1e-fb837d71afc4",
+      "/videos/tobias.mp4",
   },
 
   {
@@ -83,9 +83,9 @@ Wir haben wunderschöne und authentische Bilder von unserem Hochzeitstag bekomme
     year: 2024,
     location: "Bamberg",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/23-annika-und-andreas-29-06-2024-bamberg%2F_one_customer_image%2FMarius%20Muresan%20Unsplash.jpg?alt=media&token=53ad6533-cfd8-4391-a4d2-2a94fd6f76fd",
+      "/images/optimized/167734538169.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/annika.mp4?alt=media&token=7735ca3d-7c06-471c-bfb8-fa20adb9a6bb",
+      "/videos/annika.mp4",
   },
 
   {
@@ -94,9 +94,9 @@ Wir haben wunderschöne und authentische Bilder von unserem Hochzeitstag bekomme
     year: 2024,
     location: "Darmstadt",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/19-laura-und-tobias-24-05-2024-nuernberg%2F_one_customer_image%2FSamantha%20Gades%20Unsplash.jpg?alt=media&token=2fc96fd1-8843-4e63-b17a-ca435f29bade",
+      "/images/optimized/fad119ce6349.jpg",
     videotestimonialUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/markus.mp4?alt=media&token=6c5520bb-b9d2-4918-93d6-9e5915468782",
+      "/videos/markus.mp4",
   },
 
   {
@@ -107,7 +107,7 @@ Dankeschön und weiter so!`,
     year: 2024,
     location: "Gunzenhausen",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/11-kathrin-und-morrison-13-07-2024-gunzenhausen%2F_one_customer_image%2FKaMo-%20Paarshooting-47.jpg?alt=media&token=7b0db863-6892-4a8f-bb8d-417994fca701",
+      "/images/optimized/9be146e58528.jpg",
   },
 
   {
@@ -117,7 +117,7 @@ Dankeschön und weiter so!`,
     year: 2024,
     location: "Aurach",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/4-katharina-und-thomas-14-09-2024-aurach%2F_one_customer_image%2FKathi%26Thomas_14092024_paarshooting-052.jpg?alt=media&token=05a9b714-ee4a-4468-97b3-2318baaa8820",
+      "/images/optimized/7ae3d0b5b307.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Vq7MGyKug16ZeAGy7",
@@ -134,7 +134,7 @@ Wärend der Hochzeit sind sie kaum aufgefallen, standen uns aber zu jeder Zeit z
     year: 2024,
     location: "Lichtenau",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/10-sophia-und-alex-09-08-2024-abenberg%2F_one_customer_image%2Fsoalab.jpg?alt=media&token=2a2e2f02-db2b-4e4a-af48-dbb23c280fee",
+      "/images/optimized/9c968fb97972.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Jm2wTmnvt6A99SDv7",
@@ -143,7 +143,7 @@ Wärend der Hochzeit sind sie kaum aufgefallen, standen uns aber zu jeder Zeit z
     year: 2024,
     location: "Herrieden",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/9-verena-und-daniel-16-08-2024-herrieden%2F_one_customer_image%2FVerena%26Daniel_16082024_paarshooting-40.jpg?alt=media&token=23e9266a-a7ef-4a0c-8b8b-e9dad2bf4240",
+      "/images/optimized/2a143d7dab3e.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/LopmHWjyMekT6XCo6",
@@ -158,7 +158,7 @@ Nun haben wir wirklich großartige Bilder, die wir wunderbar als Grundlage für 
     year: 2024,
     location: "Augsburg",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/17-sandra-und-jakob-08-06-2024-augsburg%2F_one_customer_image%2Fportfolio-3.jpg?alt=media&token=3d24997d-0119-4c41-b633-c0ce5ac9eb04",
+      "/images/optimized/7367467a25f1.jpg",
   },
   {
     type: "Whatsapp",
@@ -167,7 +167,7 @@ Nun haben wir wirklich großartige Bilder, die wir wunderbar als Grundlage für 
     year: 2024,
     location: "Flachslanden",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/18-brigitta-und-sndor-28-09-2024-ansbach%2F_one_customer_image%2Fbrigitta%26sandor_28092024_paarshooting-43.jpg?alt=media&token=fa4d301d-e699-45cc-8ecc-9b9072a26fa7",
+      "/images/optimized/4735ff9e903e.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Y3RwhAyN7zDxX4E67",
@@ -195,7 +195,7 @@ Sind richtig schöne Bilder dabei 👍 `,
     year: 2024,
     location: "Neuendettelsau",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/14-sarah-und-tom-21-09-2024-neuendettelsau%2F_one_customer_image%2FSarah%26Tom_21092024_paar%26familienshooting-24.jpg?alt=media&token=81ea710c-260b-4ee9-b043-d25cfa083085",
+      "/images/optimized/f4931c0d53d4.jpg",
   },
   {
     type: "Whatsapp",
@@ -205,7 +205,7 @@ Die Bilder die du geschickt hast sind echt mega schön geworden sie gefallen uns
     year: 2024,
     location: "Ansbach",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/15-jasmin-und-daniel-08-08-2024-ansbach%2F_one_customer_image%2FJasminundDaniel08082024-088.jpg?alt=media&token=5b35b14e-a1f7-4f57-9dd9-8ed364b8b5f0",
+      "/images/optimized/d8ffa09ff478.jpg",
   },
 
   {
@@ -215,7 +215,7 @@ Die Bilder die du geschickt hast sind echt mega schön geworden sie gefallen uns
     year: 2024,
     location: "Ansbach",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/22-familie-anderson-29-09-2024-ansbach%2F_one_customer_image%2FFamilienshooting_30092024_-22.jpg?alt=media&token=e915f38c-9364-4205-9584-a7fae87026bd",
+      "/images/optimized/5112805a799d.jpg",
   },
   {
     type: "Whatsapp",
@@ -226,7 +226,7 @@ Danke das ihr euch heute Zeit genommen habt für uns 3 😊🤗 es war ein sehr 
     year: 2024,
     location: "Ansbach",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/24-die-kleine-lena-01-11-2024-ansbach%2F_four_preview_images%2FLena_1.11.2024_-28.jpg?alt=media&token=5e2aeb97-ddf0-49b8-a4f4-756f959b8d35",
+      "/images/optimized/5cd4ae8256fc.jpg",
   },
   {
     type: "Whatsapp",
@@ -238,7 +238,7 @@ Claudia und Jürgen mit Fritz`,
     year: 2024,
     location: "",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/26-familie-hofmann-02-11-2024-ansbach%2F_four_preview_images%2FFritz-2.11.2024-03.jpg?alt=media&token=c5124d5a-d006-47e0-ab22-be1b01989adf",
+      "/images/optimized/39662d3f32e9.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/wJztwr1YrGV5xyXDA",
@@ -268,7 +268,7 @@ Vielen Dank für deine tolle Arbeit :)`,
     year: 2024,
     location: "Würzburg",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/18-alicia-und-merve-01-06-2024-wuerzburg%2F_one_customer_image%2FWesley%20Tingey%20Unsplash.jpg?alt=media&token=e408e360-e8e6-4be8-842d-d81af0fa9c43",
+      "/images/optimized/c2f9902fdf44.jpg",
   },
 
   {
@@ -278,7 +278,7 @@ Vielen Dank für deine tolle Arbeit :)`,
     year: 2024,
     location: "Stuttgart",
     imgUrl:
-      "https://firebasestorage.googleapis.com/v0/b/herzensbilderbauer-b0e58.appspot.com/o/20-sandra-und-lukas-18-05-2024-stuttgart%2F_one_customer_image%2FOlga%20Solodilova%20NTT2PHTHXBY.jpg?alt=media&token=3e5ff216-46a2-49c7-b3da-b87e2e693c09",
+      "/images/optimized/1261c2714105.jpg",
   },
 
   {

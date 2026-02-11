@@ -3,7 +3,7 @@ slug: drohnenfotografie-bei-hochzeiten-ein-umfassender-guide
 title: Drohnenfotografie bei Hochzeiten: Ein umfassender Guide
 description: Entdecke die Magie der Drohnenfotografie für deine Hochzeit! Erfahre alles über Vorteile, rechtliche Aspekte, Tipps und die besten Modelle in diesem umfassenden Guide.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9603b89c-0628-4df7-a40b-f9a002a4e8d1-hcrsvc.jpg
+previewImageUrl: /images/optimized/fc69981de822.jpg
 createdAt: 2023-06-11 17:26:59.034
 updatedAt: null
 categories: ["Drohnenfotografie","Vorteile","Rechtliches","Tipps","Modelle"]

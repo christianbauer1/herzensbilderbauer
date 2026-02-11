@@ -3,7 +3,7 @@ slug: schlechtwetter-plan-fuer-hochzeiten-tipps-zur-vorbereitung
 title: Schlechtwetter-Plan für Hochzeiten: Tipps zur Vorbereitung
 description: Planen Sie Ihre Traumhochzeit stressfrei mit einem Schlechtwetter-Plan! Tipps vom Profi für unvergessliche Hochzeitsfotos und alternative Indoor-Optionen. Feiern Sie Ihre Liebe, egal bei welchem Wetter!
 creator: Christian
-previewImageUrl: https://utfs.io/f/b34d27e8-cdd4-4cc6-8783-c8d739b684b7-rrmfqt.jpg
+previewImageUrl: /images/optimized/5c6ae9df8c0d.jpg
 createdAt: 2023-12-05 18:22:16.519
 updatedAt: null
 categories: ["Schlechtwetter-Planung","Hochzeitsfotografie","Indoor-Optionen","Stressfrei","Unvergessliche Fotos"]

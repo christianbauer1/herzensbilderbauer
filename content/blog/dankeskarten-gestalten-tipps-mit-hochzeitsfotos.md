@@ -3,7 +3,7 @@ slug: dankeskarten-gestalten-tipps-mit-hochzeitsfotos
 title: Dankeskarten gestalten: Tipps mit Hochzeitsfotos
 description: Gestalte emotionale Dankeskarten mit Hochzeitsfotos, um deine Liebe und Dankbarkeit auszudrücken. Tipps zur Auswahl, Gestaltung und Verteilung. Mach deine Gäste glücklich!
 creator: Christian
-previewImageUrl: https://utfs.io/f/575bc067-72f9-42ce-8826-1bfabd6aed71-uvxjmx.jpg
+previewImageUrl: /images/optimized/e03ead41550a.jpg
 createdAt: 2024-02-22 18:40:58.611
 updatedAt: null
 categories: ["Dankeskarten","Hochzeitsfotos","Liebe","Gestaltungstipps","Glückliche Gäste"]

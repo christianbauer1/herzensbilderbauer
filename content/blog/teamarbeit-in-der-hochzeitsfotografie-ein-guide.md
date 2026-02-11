@@ -3,7 +3,7 @@ slug: teamarbeit-in-der-hochzeitsfotografie-ein-guide
 title: Teamarbeit in der Hochzeitsfotografie: Ein Guide!
 description: Entdecke die Vorteile der Teamarbeit in der Hochzeitsfotografie! Erfahre, wie ein eingespieltes Team die Qualität deiner Bilder und das Erlebnis verbessern kann. Finde heraus, wie du das perfekte Fotografie-Team zusammenstellst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/ba4009dc-31c5-4be4-ace3-5c42c7b67722-tolxkg.jpg
+previewImageUrl: /images/optimized/1f4ea4279aff.jpg
 createdAt: 2023-05-20 17:14:02.254
 updatedAt: null
 categories: ["Teamwork","Qualität","Erfahrung","Zusammenarbeit","Effizienz"]

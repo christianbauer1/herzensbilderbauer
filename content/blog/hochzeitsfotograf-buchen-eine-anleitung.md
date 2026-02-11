@@ -3,7 +3,7 @@ slug: hochzeitsfotograf-buchen-eine-anleitung
 title: Hochzeitsfotograf buchen: Eine Anleitung
 description: Finde den perfekten Hochzeitsfotografen für unvergessliche Erinnerungen! Erfahre, wie du den richtigen Stil und Budget findest. Tipps zur Vorbereitung und was am Hochzeitstag passiert.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9d8ba783-1ded-466b-a27e-348bdc41cd22-2htnwr.jpg
+previewImageUrl: /images/optimized/9a46b1733d82.jpg
 createdAt: 2023-08-30 17:16:11.363
 updatedAt: null
 categories: ["Stilrichtungen","Budgetplanung","Vorbereitungstipps","Hochzeitstag","Erinnerungen"]

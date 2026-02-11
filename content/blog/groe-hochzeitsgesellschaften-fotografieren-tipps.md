@@ -3,7 +3,7 @@ slug: groe-hochzeitsgesellschaften-fotografieren-tipps
 title: Große Hochzeitsgesellschaften fotografieren: Tipps
 description: Erfahre, wie du große Hochzeitsgesellschaften fotografierst und unvergessliche Momente festhältst. Tipps zur Vorbereitung, Kommunikation, Ausrüstung und Nachbearbeitung. Werde zum Profi!
 creator: Christian
-previewImageUrl: https://utfs.io/f/8a1b0171-f440-401b-8f3b-8b82c7fb7b3e-xnxuzb.jpg
+previewImageUrl: /images/optimized/f67321c29a94.jpg
 createdAt: 2024-02-21 18:41:07.09
 updatedAt: null
 categories: ["Vorbereitung","Kommunikation","Ausrüstung","Nachbearbeitung","Professionell"]

@@ -3,7 +3,7 @@ slug: kreative-hochzeitsfotografie-neue-perspektiven-entdecken
 title: Kreative Hochzeitsfotografie: Neue Perspektiven entdecken
 description: Entdecke die Magie der Hochzeitsfotografie: Kreative Perspektiven, emotionale Momente und einzigartige Locations für unvergessliche Erinnerungen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/216fbc7d-34fe-46bf-8e66-0fdc105d6088-ixaa7a.jpg
+previewImageUrl: /images/optimized/4f45e6e82214.jpg
 createdAt: 2024-04-06 17:22:16.688
 updatedAt: null
 categories: ["KreativePerspektiven","EmotionaleMomente","EinzigartigeLocations","UnvergesslicheErinnerungen","Hochzeitsfotografie"]

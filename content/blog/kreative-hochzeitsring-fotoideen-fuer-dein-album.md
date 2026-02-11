@@ -3,7 +3,7 @@ slug: kreative-hochzeitsring-fotoideen-fuer-dein-album
 title: Kreative Hochzeitsring-Fotoideen für dein Album
 description: Entdecke kreative Hochzeitsring-Fotoideen, die die Liebe und Verbundenheit zwischen euch einfangen. Lass die Ringe strahlen und eure Geschichte erzählen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/0226d09b-fb15-490d-a925-28b015fb2854-mkv582.jpg
+previewImageUrl: /images/optimized/8e153a2e1de3.jpg
 createdAt: 2023-10-29 18:24:20.707
 updatedAt: null
 categories: ["Ringdetailaufnahmen","Kreative Perspektiven","Lichtspiele","Emotionale Momente","Vintage-Effekte"]

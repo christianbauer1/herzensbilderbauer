@@ -3,7 +3,7 @@ slug: trash-the-dress-einblicke-in-das-beliebte-fotoshooting
 title: Trash the Dress: Einblicke in das beliebte Fotoshooting
 description: Entdecke die Welt des Trash the Dress Fotoshootings! Erfahre, wie du mit kreativen Ideen und einzigartigen Locations unvergessliche Erinnerungen schaffen kannst. Trau dich, aus der Masse herauszustechen und eure Liebe auf besondere Weise festzuhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/40cff4d2-8b75-4b5a-8b83-3cac99b18b77-sabg9.jpg
+previewImageUrl: /images/optimized/c54a40fd7d0c.jpg
 createdAt: 2023-08-02 17:24:17.684
 updatedAt: null
 categories: ["Kreativität","Einzigartigkeit","Locations","Fotografie","Hochzeitsfotografie"]

@@ -3,7 +3,7 @@ slug: authentische-gaestefotos-tipps-fuer-hochzeitsfotografen
 title: Authentische Gästefotos: Tipps für Hochzeitsfotografen
 description: Authentische Gästefotos sind unverzichtbar für Hochzeitsfotografen. Erfahre, wie du emotionale Momente einfängst und einzigartige Bilder kreierst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/4db975af-1ed9-4547-80df-36d0fa61d90e-6gkiyl.jpg
+previewImageUrl: /images/optimized/47db478c25d9.jpg
 createdAt: 2024-04-27 17:29:03.54
 updatedAt: null
 categories: ["Emotionen","Authentizität","Gästefotos","Hochzeitsmomente","Kreativität"]

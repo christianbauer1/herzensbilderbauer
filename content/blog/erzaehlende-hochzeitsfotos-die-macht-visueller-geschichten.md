@@ -3,7 +3,7 @@ slug: erzaehlende-hochzeitsfotos-die-macht-visueller-geschichten
 title: Erzählende Hochzeitsfotos: Die Macht visueller Geschichten
 description: Erlebe die Magie erzählender Hochzeitsfotos! Tauche ein in emotionale Geschichten und finde den perfekten Fotografen für euren besonderen Tag.
 creator: Christian
-previewImageUrl: https://utfs.io/f/7100cbeb-7662-4df4-b92e-ec2ea4d5317f-xd1s40.jpg
+previewImageUrl: /images/optimized/897112d49347.jpg
 createdAt: 2024-03-12 18:36:34.628
 updatedAt: null
 categories: ["Emotionen","Hochzeitsreportage","Fotostil","Professionell","Inspiration"]

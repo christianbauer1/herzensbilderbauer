@@ -3,7 +3,7 @@ slug: einen-konsistenten-stil-in-der-hochzeitsfotografie-bewahren
 title: Einen konsistenten Stil in der Hochzeitsfotografie bewahren
 description: Finde heraus, warum ein konsistenter Fotografiestil in der Hochzeitsfotografie so wichtig ist und wie du deinen eigenen entwickeln kannst. Erfahre, wie du mit verschiedenen Lichtverhältnissen und Locations konsistent bleibst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/caefed91-2deb-4d36-aa03-2cc6c1f271e6-n1f15j.jpg
+previewImageUrl: /images/optimized/a40b7cc2c1cd.jpg
 createdAt: 2024-01-10 18:30:24.002
 updatedAt: null
 categories: ["Fotografiestil","Lichtverhältnisse","Locations","Konsistenz","Entwicklung"]

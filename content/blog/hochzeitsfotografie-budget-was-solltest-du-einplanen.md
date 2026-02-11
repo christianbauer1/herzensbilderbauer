@@ -3,7 +3,7 @@ slug: hochzeitsfotografie-budget-was-solltest-du-einplanen
 title: Hochzeitsfotografie Budget: Was solltest du einplanen?
 description: Finde den perfekten Hochzeitsfotografen für dein Budget! Erfahre, warum die Investition in Erinnerungen so wichtig ist und wie du versteckte Kosten vermeidest. Schaffe unvergessliche Momente für die Ewigkeit.
 creator: Christian
-previewImageUrl: https://utfs.io/f/f545fdbf-26cf-4a17-a55e-0d4b44c7b469-w54npv.jpg
+previewImageUrl: /images/optimized/6c0ac1dae521.jpg
 createdAt: 2023-09-10 17:24:22.212
 updatedAt: null
 categories: ["Budgetplanung","Investition","Versteckte Kosten","Unvergessliche Momente","Erinnerungen"]

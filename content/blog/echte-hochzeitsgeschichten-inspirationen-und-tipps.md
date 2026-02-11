@@ -3,7 +3,7 @@ slug: echte-hochzeitsgeschichten-inspirationen-und-tipps
 title: Echte Hochzeitsgeschichten: Inspirationen und Tipps
 description: Finde Inspiration für deine Traumhochzeit mit echten Hochzeitsgeschichten, romantischen Ideen und wertvollen Tipps. Lass dich von einzigartigen Momenten verzaubern!
 creator: Christian
-previewImageUrl: https://utfs.io/f/6ac8a4c2-2f32-4a99-b880-feec5ca5a69a-gyjkza.jpg
+previewImageUrl: /images/optimized/72e487f55dc4.jpg
 createdAt: 2023-11-12 18:12:11.992
 updatedAt: null
 categories: ["Hochzeitsgeschichten","Romantische Ideen","Wertvolle Tipps","Einzigartige Momente","Inspiration"]

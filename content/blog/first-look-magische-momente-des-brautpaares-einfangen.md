@@ -3,7 +3,7 @@ slug: first-look-magische-momente-des-brautpaares-einfangen
 title: First Look: Magische Momente des Brautpaares einfangen
 description: Erlebe den magischen First Look: Ein intimer Moment voller Emotionen und Liebe. Erfahre, warum dieser Teil deiner Hochzeit unvergesslich sein sollte.
 creator: Christian
-previewImageUrl: https://utfs.io/f/6fe07801-481e-46b2-8c74-4aaa8ef0a57e-ngki8w.jpg
+previewImageUrl: /images/optimized/e8ce7cd767ba.jpg
 createdAt: 2023-11-10 18:24:18.951
 updatedAt: null
 categories: ["First Look","Emotionen","Liebe","Intimität","Unvergesslich"]

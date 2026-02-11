@@ -3,7 +3,7 @@ slug: tipps-fuer-brautpaare-ueberwindung-von-lampenfieber-vor-der-kamera
 title: Tipps für Brautpaare: Überwindung von Lampenfieber vor der Kamera
 description: Entdecke Tipps zur Überwindung von Lampenfieber vor der Kamera für entspannte Hochzeitsfotos. Erfahre, wie Selbstvertrauen und Vorbereitung zu natürlichen Bildern führen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/3aef581c-4845-47b4-90c3-0578db981b25-bxcbpl.jpg
+previewImageUrl: /images/optimized/9b295b018d84.jpg
 createdAt: 2023-07-04 17:24:24.045
 updatedAt: null
 categories: ["Selbstvertrauen","Vorbereitung","Lampenfieber","Entspannung","Natürlichkeit"]

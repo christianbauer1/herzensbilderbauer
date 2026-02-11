@@ -3,7 +3,7 @@ slug: anfaenger-tipps-perfekte-hochzeitsfotos-selbst-machen
 title: Anfänger-Tipps: Perfekte Hochzeitsfotos selbst machen!
 description: Entdecke, wie du mit einfachen Tipps selbst perfekte Hochzeitsfotos machen kannst! Erfahre, welche Ausrüstung du brauchst und wie du emotionale Momente festhältst. Lass dich inspirieren!
 creator: Christian
-previewImageUrl: https://utfs.io/f/aa77425a-db18-47d7-aa53-ce04c9078ea8-74u5rw.jpg
+previewImageUrl: /images/optimized/d196d09ce802.jpg
 createdAt: 2024-03-19 18:14:08.069
 updatedAt: null
 categories: ["Fotografie-Tipps","Ausrüstung","Emotionen","Inspiration","Hochzeitsfotografie"]

@@ -3,7 +3,7 @@ slug: outdoor-hochzeitsfotos-tipps-fuer-perfekte-bilder
 title: Outdoor Hochzeitsfotos: Tipps für perfekte Bilder
 description: Entdecke die Magie von Outdoor-Hochzeitsfotos! Tipps für perfekte Bilder: Goldene Stunde nutzen, Wetter meistern, Location wählen, Outfits & Posen. Lass die Liebe strahlen! 📸💖
 creator: Christian
-previewImageUrl: https://utfs.io/f/817842ce-8f28-45ee-9280-9137a9d60fec-99y5s7.jpg
+previewImageUrl: /images/optimized/ce78d2fca5a7.jpg
 createdAt: 2024-02-27 18:16:13.889
 updatedAt: null
 categories: ["Goldene Stunde","Wetter","Location","Outfits","Posen"]

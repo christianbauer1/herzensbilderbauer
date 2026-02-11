@@ -3,7 +3,7 @@ slug: nachhaltige-hochzeiten-tipps-fuer-fotografen-und-paare
 title: Nachhaltige Hochzeiten: Tipps für Fotografen und Paare
 description: Nachhaltige Hochzeiten: Entdecke, wie du als Paar oder Fotograf mit umweltfreundlichen Optionen einen besonderen Tag gestalten kannst. Tipps für nachhaltige Entscheidungen und einzigartige Ideen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/dbe0939d-ef81-40d0-a711-9579ad5bbeab-dllv88.jpg
+previewImageUrl: /images/optimized/5586085d5261.jpg
 createdAt: 2024-04-26 17:32:23.593
 updatedAt: null
 categories: ["Nachhaltigkeit","Umweltfreundlich","Hochzeitsplanung","Kreative Ideen","Grüne Hochzeit"]

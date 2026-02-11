@@ -3,7 +3,7 @@ slug: vater-der-braut-emotionale-momente-einfangen
 title: Vater der Braut: Emotionale Momente einfangen
 description: Erlebe die emotionale Verbindung zwischen Vater und Braut in bewegenden Momenten. Tipps für Väter und Fotografen, um diese unvergesslichen Augenblicke festzuhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/580760a5-d055-4113-a124-e7d331642630-h9c1jh.jpg
+previewImageUrl: /images/optimized/c5713b19e41e.jpg
 createdAt: 2024-04-01 17:42:58.762
 updatedAt: null
 categories: ["Vater-Tochter-Momente","Emotionen","Fotografie-Tipps","Familiäre Bindungen","Hochzeitsfotografie"]

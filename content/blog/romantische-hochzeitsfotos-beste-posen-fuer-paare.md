@@ -3,7 +3,7 @@ slug: romantische-hochzeitsfotos-beste-posen-fuer-paare
 title: Romantische Hochzeitsfotos: Beste Posen für Paare
 description: Entdecke die besten Posen für romantische Hochzeitsfotos! Erfahre, wie du dich perfekt stylen kannst und welche Locations sich am besten eignen. Lass uns gemeinsam in die Welt der Hochzeitsfotografie eintauchen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/ef13cef8-97aa-4053-8af0-649fb46df3df-6hbe49.jpg
+previewImageUrl: /images/optimized/246c7e114a14.jpg
 createdAt: 2023-12-20 18:16:01.142
 updatedAt: null
 categories: ["Posen","Styling","Locations","Romantik","Hochzeitsfotografie"]

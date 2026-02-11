@@ -3,7 +3,7 @@ slug: dynamische-hochzeitsfotos-tipps-fuer-bewegung-im-bild
 title: Dynamische Hochzeitsfotos: Tipps für Bewegung im Bild
 description: Entdecke, wie Bewegung in Hochzeitsfotos die Magie des Moments einfängt. Tipps zur Planung, Technik und Interaktion für dynamische und unvergessliche Bilder.
 creator: Christian
-previewImageUrl: https://utfs.io/f/a1e7c64f-26fb-4600-9c93-cb9d4f34dce1-xjczh3.jpg
+previewImageUrl: /images/optimized/621c1764e435.jpg
 createdAt: 2023-12-21 18:20:15.806
 updatedAt: null
 categories: ["Bewegung","Planung","Technik","Interaktion","Magie"]

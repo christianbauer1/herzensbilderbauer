@@ -3,7 +3,7 @@ slug: top-hochzeitslocations-in-franken-traumhafte-kulissen
 title: Top Hochzeitslocations in Franken: Traumhafte Kulissen
 description: Entdecke die schönsten Hochzeitslocations in Franken für unvergessliche Feiern. Romantische Schlösser, idyllische Landgasthöfe, moderne Eventlocations und malerische Weingüter warten auf dich!
 creator: Christian
-previewImageUrl: https://utfs.io/f/33347e07-b59b-4608-9df8-33534a66db6e-pq3x5x.jpg
+previewImageUrl: /images/optimized/2c0692853258.jpg
 createdAt: 2023-11-29 18:12:09.817
 updatedAt: null
 categories: ["Schlösser","Landgasthöfe","Eventlocations","Weingüter","Franken"]

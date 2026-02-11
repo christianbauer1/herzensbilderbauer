@@ -3,7 +3,7 @@ slug: getting-ready-fotos-tipps-fuer-perfekte-hochzeitsbilder
 title: Getting-Ready-Fotos: Tipps für perfekte Hochzeitsbilder
 description: Entdecke die Bedeutung von Getting-Ready-Fotos für deine Hochzeit. Erfahre, wie du mit Tipps und Ideen den perfekten Start in deinen großen Tag schaffst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/4f5b5df3-a05a-4ea2-baf8-7b32cea22cdc-3dsiih.jpg
+previewImageUrl: /images/optimized/680e19e8090d.jpg
 createdAt: 2023-09-23 17:28:56.439
 updatedAt: null
 categories: ["Getting-Ready-Fotos","Hochzeitsvorbereitungen","Fotografie-Tipps","Emotionen","Hochzeitsmomente"]

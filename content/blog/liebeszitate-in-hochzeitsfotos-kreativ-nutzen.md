@@ -3,7 +3,7 @@ slug: liebeszitate-in-hochzeitsfotos-kreativ-nutzen
 title: Liebeszitate in Hochzeitsfotos kreativ nutzen
 description: Entdecke, wie Liebeszitate in Hochzeitsfotos eine einzigartige und emotionale Tiefe schaffen. Erfahre, warum sie die perfekte Ergänzung für eure Erinnerungen sind.
 creator: Christian
-previewImageUrl: https://utfs.io/f/b51a182a-1577-426c-84d3-8bd2d86f26d3-m4v4g3.jpg
+previewImageUrl: /images/optimized/be38d0fe7173.jpg
 createdAt: 2023-05-25 17:34:30.123
 updatedAt: null
 categories: ["Liebeszitate","Hochzeitsfotos","Emotionen","Erinnerungen","Kreativität"]

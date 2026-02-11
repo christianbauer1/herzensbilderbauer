@@ -3,7 +3,7 @@ slug: beste-kameraausruestung-fuer-hochzeitsfotografen-2023
 title: Beste Kameraausrüstung für Hochzeitsfotografen 2023
 description: Entdecke die besten Kameras, Objektive und Zubehör für Hochzeitsfotografen 2023. Erfahre, wie die richtige Ausrüstung deine Fotos unvergesslich macht!
 creator: Christian
-previewImageUrl: https://utfs.io/f/831f41c1-f08c-47c8-95e8-ced025e6ba23-23xj5w.jpg
+previewImageUrl: /images/optimized/d4351ac0285a.jpg
 createdAt: 2024-04-26 17:20:11.673
 updatedAt: null
 categories: ["Kameras","Objektive","Zubehör","Ausrüstung","Fotografie"]

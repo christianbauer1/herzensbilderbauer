@@ -3,7 +3,7 @@ slug: romantische-hochzeitsfoto-ideen-fuer-inspiration
 title: Romantische Hochzeitsfoto-Ideen für Inspiration!
 description: Finde den perfekten Hochzeitsfotografen für unvergessliche Momente! Inspirierende Ideen für romantische Hochzeitsfotos in Natur, Stadt, Vintage-Stil und bei Nacht. Tipps für emotionale und detailverliebte Bilder.
 creator: Christian
-previewImageUrl: https://utfs.io/f/322dc400-4b86-43f9-994d-e290548b1320-rogioy.jpg
+previewImageUrl: /images/optimized/be94c2afdab6.jpg
 createdAt: 2024-03-18 18:14:11.248
 updatedAt: null
 categories: ["Romantik","Natur","Stadt","Vintage","Nachtfotografie"]

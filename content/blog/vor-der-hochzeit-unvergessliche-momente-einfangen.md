@@ -3,7 +3,7 @@ slug: vor-der-hochzeit-unvergessliche-momente-einfangen
 title: Vor der Hochzeit: Unvergessliche Momente einfangen
 description: Unvergessliche Hochzeitsfotos für immer festhalten: Erfahre, warum die Wahl eines professionellen Hochzeitsfotografen entscheidend ist und wie du den perfekten Fotografen findest.
 creator: Christian
-previewImageUrl: https://utfs.io/f/01da9f18-f85a-4f90-9966-2b5f562a8f91-224pr5.jpg
+previewImageUrl: /images/optimized/cc9f4e69f2c1.jpg
 createdAt: 2023-11-15 18:12:11.255
 updatedAt: null
 categories: ["Qualität","Erfahrung","Auswahl","Vertrauen","Kreativität"]

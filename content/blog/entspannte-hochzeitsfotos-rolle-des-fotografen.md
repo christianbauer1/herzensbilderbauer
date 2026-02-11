@@ -3,7 +3,7 @@ slug: entspannte-hochzeitsfotos-rolle-des-fotografen
 title: Entspannte Hochzeitsfotos: Rolle des Fotografen
 description: Entspannte Hochzeitsfotos einfangen: Erfahre, warum die Rolle des Fotografen entscheidend ist. Tipps zur Vorbereitung und Kommunikation für natürliche und emotionale Bilder.
 creator: Christian
-previewImageUrl: https://utfs.io/f/b1b893f6-0ff6-4445-af9b-027c3d9176fd-a6fwyg.jpg
+previewImageUrl: /images/optimized/c4ceb406b452.jpg
 createdAt: 2023-09-20 17:38:45.64
 updatedAt: null
 categories: ["Vorbereitung","Kommunikation","Natürlich","Emotional","Entspannt"]

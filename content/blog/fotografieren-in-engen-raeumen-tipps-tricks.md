@@ -3,7 +3,7 @@ slug: fotografieren-in-engen-raeumen-tipps-tricks
 title: Fotografieren in engen Räumen: Tipps & Tricks
 description: Entdecke, wie du als Hochzeitsfotograf in engen Räumen brillierst! Tipps zur Raumgröße, Ausrüstung, Licht, Komposition, Gästeführung und Fehlervermeidung für perfekte Hochzeitsfotos.
 creator: Christian
-previewImageUrl: https://utfs.io/f/a97529bb-823b-4df0-a6d1-a93d307878b7-v42r7s.jpg
+previewImageUrl: /images/optimized/f8593716a086.jpg
 createdAt: 2024-04-22 17:43:19.214
 updatedAt: null
 categories: ["Raumgröße","Ausrüstung","Licht","Komposition","Gästeführung"]

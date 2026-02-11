@@ -3,7 +3,7 @@ slug: top-hochzeitsfoto-accessoires-ideen-von-blumen-bis-bubbles
 title: Top Hochzeitsfoto-Accessoires: Ideen von Blumen bis Bubbles
 description: Entdecke die besten Hochzeitsfoto-Accessoires von Blumen bis Bubbles! Lass dich inspirieren, wie du mit persönlichen Details und natürlichen Elementen unvergessliche Bilder schaffst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/ae0d2ef0-ecf6-4bc3-ba5a-08c807fe76fe-c3yjf.jpg
+previewImageUrl: /images/optimized/1d280f593581.jpg
 createdAt: 2023-08-03 17:20:13.789
 updatedAt: null
 categories: ["Blumen","Accessoires","Natürlich","Persönlich","Kreativ"]

@@ -3,7 +3,7 @@ slug: ruhepunkte-geheimnis-toller-hochzeitsbilder
 title: Ruhepunkte: Geheimnis toller Hochzeitsbilder
 description: Entdecke das Geheimnis toller Hochzeitsbilder: Erfahre, wie Ruhepunkte in der Fotografie den Fokus lenken und Emotionen einfangen. Tipps zur Identifizierung und praktische Beispiele.
 creator: Christian
-previewImageUrl: https://utfs.io/f/f47f8cd2-7318-4a13-a743-26603041a47f-ffciuk.jpg
+previewImageUrl: /images/optimized/76d57effeeb2.jpg
 createdAt: 2023-10-29 18:42:58.606
 updatedAt: null
 categories: ["Ruhepunkte","Fokuslenkung","Emotionen","Identifizierung","Praxisbeispiele"]

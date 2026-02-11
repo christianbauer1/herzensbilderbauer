@@ -3,7 +3,7 @@ slug: beleuchtungstipps-fuer-perfekte-indoor-hochzeitsfotos
 title: Beleuchtungstipps für perfekte Indoor-Hochzeitsfotos
 description: Entdecke, wie du mit den richtigen Beleuchtungstipps atemberaubende Indoor-Hochzeitsfotos zauberst. Meistere das Licht für unvergessliche Momente!
 creator: Christian
-previewImageUrl: https://utfs.io/f/53c52d43-2dfd-422c-8ddf-10405afa5000-dy9190.jpg
+previewImageUrl: /images/optimized/86aeac2eb5cb.jpg
 createdAt: 2023-09-16 17:36:36.335
 updatedAt: null
 categories: ["Beleuchtungstipps","Indoor-Fotografie","Hochzeitsfotos","Lichtgestaltung","Fotografie-Tipps"]

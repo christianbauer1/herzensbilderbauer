@@ -3,7 +3,7 @@ slug: detailaufnahmen-bei-hochzeiten-emotionen-einfangen
 title: Detailaufnahmen bei Hochzeiten: Emotionen einfangen
 description: Entdecke die Magie der Detailaufnahmen bei Hochzeiten! Erfahre, wie kleine Elemente große Emotionen einfangen und deinen besonderen Tag unvergesslich machen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/aaf14b8b-c4a7-4c55-b1c2-092353af6415-z0ck1v.jpg
+previewImageUrl: /images/optimized/378c1027561b.jpg
 createdAt: 2023-11-20 18:18:12.885
 updatedAt: null
 categories: ["Detailaufnahmen","Emotionen","Hochzeitsfotografie","Unvergesslich","Magie"]

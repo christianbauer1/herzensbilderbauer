@@ -3,7 +3,7 @@ slug: einfluss-von-musik-auf-die-emotionen-bei-hochzeitsfotos
 title: Einfluss von Musik auf die Emotionen bei Hochzeitsfotos
 description: Erlebe, wie Musik die Emotionen bei Hochzeitsfotos verstärkt und unvergessliche Momente schafft. Erfahre, welchen Einfluss die richtige Musik auf die Stimmung hat!
 creator: Christian
-previewImageUrl: https://utfs.io/f/e8fa9e26-af88-41bf-bbc1-3d20a9df6f63-xh3pw9.jpg
+previewImageUrl: /images/optimized/f46b6326d366.jpg
 createdAt: 2023-10-27 17:24:24.047
 updatedAt: null
 categories: ["Emotionen","Musik","Stimmung","Hochzeitsfotos","Momente"]

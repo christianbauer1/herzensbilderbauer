@@ -3,7 +3,7 @@ slug: kommunikation-fotograf-und-hochzeitsplaner
 title: Kommunikation: Fotograf und Hochzeitsplaner
 description: Erfahre, warum die Kommunikation zwischen Hochzeitsfotograf und -planer der Schlüssel zu perfekten Hochzeitsfotos ist. Tipps für eine erfolgreiche Zusammenarbeit!
 creator: Christian
-previewImageUrl: https://utfs.io/f/b5aaf7ab-a75c-4881-acef-fb3e8ebce12b-fjma27.jpg
+previewImageUrl: /images/optimized/45275a2c51c2.jpg
 createdAt: 2023-06-09 17:45:04.413
 updatedAt: null
 categories: ["Zusammenarbeit","Kommunikation","Hochzeitsplanung","Fotografie","Erfolgsstrategien"]

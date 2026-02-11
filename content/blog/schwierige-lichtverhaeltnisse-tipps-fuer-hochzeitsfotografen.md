@@ -3,7 +3,7 @@ slug: schwierige-lichtverhaeltnisse-tipps-fuer-hochzeitsfotografen
 title: Schwierige Lichtverhältnisse: Tipps für Hochzeitsfotografen
 description: Erfahre, wie du als Hochzeitsfotograf schwierige Lichtverhältnisse meisterst. Tipps zur Belichtung, Ausrüstung und Bearbeitung für beeindruckende Hochzeitsfotos.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9555a383-4032-49d4-a645-75eda7a25d80-5gij4c.jpg
+previewImageUrl: /images/optimized/41d2d2f1b616.jpg
 createdAt: 2024-01-07 18:26:59.055
 updatedAt: null
 categories: ["Belichtung","Ausrüstung","Lichtbearbeitung","Hochzeitsfotografie","Tipps"]

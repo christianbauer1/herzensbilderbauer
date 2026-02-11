@@ -3,7 +3,7 @@ slug: tiefenschaerfe-in-hochzeitsfotos-warum-sie-wichtig-ist
 title: Tiefenschärfe in Hochzeitsfotos: Warum sie wichtig ist
 description: Entdecke die Bedeutung der Tiefenschärfe in Hochzeitsfotos. Erfahre, wie du mit der richtigen Einstellung Emotionen und Stimmungen perfekt einfangen kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/1079dee2-960c-490c-ac90-90d625ac0df1-n6q80w.jpg
+previewImageUrl: /images/optimized/d3034b073415.jpg
 createdAt: 2024-01-28 18:32:16.573
 updatedAt: null
 categories: ["Tiefenschärfe","Emotionen","Stimmungen","Einstellung","Hochzeitsfotos"]

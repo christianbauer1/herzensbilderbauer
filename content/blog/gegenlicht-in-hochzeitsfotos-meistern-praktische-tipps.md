@@ -3,7 +3,7 @@ slug: gegenlicht-in-hochzeitsfotos-meistern-praktische-tipps
 title: Gegenlicht in Hochzeitsfotos meistern: Praktische Tipps
 description: Entdecke die Magie des Gegenlichts in der Hochzeitsfotografie! Praktische Tipps, um romantische und verträumte Bilder zu kreieren, die Emotionen einfangen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/51008668-b008-4387-9cf6-1e19d9a8b944-djuf8h.jpg
+previewImageUrl: /images/optimized/770d0c18dfc4.jpg
 createdAt: 2024-04-15 17:24:18.086
 updatedAt: null
 categories: ["Gegenlicht","Romantik","Verträumt","Emotionen","Fototipps"]

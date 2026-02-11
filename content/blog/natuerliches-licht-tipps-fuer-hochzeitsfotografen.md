@@ -3,7 +3,7 @@ slug: natuerliches-licht-tipps-fuer-hochzeitsfotografen
 title: Natürliches Licht: Tipps für Hochzeitsfotografen
 description: Entdecke die Magie des natürlichen Lichts für deine Hochzeitsfotos! Tipps zur optimalen Nutzung von Lichtquellen, goldenen Stunden und Werkzeugen für unvergessliche Aufnahmen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/4736086a-7395-4a70-98f6-4a761b9b3ae3-epw3vs.jpg
+previewImageUrl: /images/optimized/c9fabff1ea0b.jpg
 createdAt: 2024-04-03 17:39:03.493
 updatedAt: null
 categories: ["Natürliches Licht","Goldene Stunden","Lichtquellen","Hochzeitsfotos","Fotografie-Tipps"]

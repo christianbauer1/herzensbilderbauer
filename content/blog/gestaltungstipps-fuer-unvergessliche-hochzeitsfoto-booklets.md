@@ -3,7 +3,7 @@ slug: gestaltungstipps-fuer-unvergessliche-hochzeitsfoto-booklets
 title: Gestaltungstipps für unvergessliche Hochzeitsfoto-Booklets
 description: Gestalte mit unseren Tipps ein unvergessliches Hochzeitsfoto-Booklet! Wähle die perfekten Fotos, achte auf Layout und Design, Papierqualität und Personalisierung. Vermeide häufige Fehler und lass dich von Beispielen inspirieren.
 creator: Christian
-previewImageUrl: https://utfs.io/f/15f92809-b701-4b43-935c-b07d432c76ba-h7wap9.jpg
+previewImageUrl: /images/optimized/8d5af0eb720f.jpg
 createdAt: 2023-08-06 17:40:51.236
 updatedAt: null
 categories: ["Fotowahl","Layout","Papierqualität","Personalisierung","Fehlervermeidung"]

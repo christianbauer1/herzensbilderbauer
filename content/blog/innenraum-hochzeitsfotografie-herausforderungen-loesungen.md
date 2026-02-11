@@ -3,7 +3,7 @@ slug: innenraum-hochzeitsfotografie-herausforderungen-loesungen
 title: Innenraum-Hochzeitsfotografie: Herausforderungen & Lösungen
 description: Entdecke, wie du als Hochzeitsfotograf in Innenräumen magische Momente einfängst. Meistere Licht, Raum & Farben für unvergessliche Hochzeitsfotos!
 creator: Christian
-previewImageUrl: https://utfs.io/f/35fa239a-0891-4f4c-a91d-32734a7f38b7-cprmpm.jpg
+previewImageUrl: /images/optimized/435b3c55e1ce.jpg
 createdAt: 2023-10-22 17:22:13.965
 updatedAt: null
 categories: ["Lichtgestaltung","Raumkomposition","Farbkontraste","Innenrauminspiration","Hochzeitsfotografie"]

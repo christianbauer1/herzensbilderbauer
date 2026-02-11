@@ -3,7 +3,7 @@ slug: social-media-tipps-zum-teilen-von-hochzeitsfotos
 title: Social Media: Tipps zum Teilen von Hochzeitsfotos
 description: Teile deine Hochzeitsfotos auf Social Media mit Leidenschaft und Kreativität! Nutze Hashtags und Geotags clever, interagiere mit Followern und finde den besten Zeitpunkt zum Posten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/85022d28-e577-450e-8569-d6d38b82f8ef-q2cnb8.jpg
+previewImageUrl: /images/optimized/4f616802d1d6.jpg
 createdAt: 2023-08-07 17:27:04.241
 updatedAt: null
 categories: ["SocialMedia","Hashtags","Geotags","Interaktion","Timing"]

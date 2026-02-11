@@ -3,7 +3,7 @@ slug: fragen-an-hochzeitsfotografen-was-sie-fragen-sollten
 title: Fragen an Hochzeitsfotografen: Was Sie fragen sollten
 description: Die Wahl des richtigen Hochzeitsfotografen ist entscheidend für unvergessliche Erinnerungen. Erfahre, welche Fragen du stellen solltest, um den perfekten Fotografen zu finden.
 creator: Christian
-previewImageUrl: https://utfs.io/f/7a1e63e9-93a6-448a-bbbf-7ff368dfd43f-7xvgrl.jpg
+previewImageUrl: /images/optimized/7a578b088e8b.jpg
 createdAt: 2024-01-01 18:16:09.271
 updatedAt: null
 categories: ["Fragen","Hochzeitsfotograf","Erinnerungen","Entscheidung","Perfektion"]

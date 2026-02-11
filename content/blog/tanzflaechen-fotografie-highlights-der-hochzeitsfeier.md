@@ -3,7 +3,7 @@ slug: tanzflaechen-fotografie-highlights-der-hochzeitsfeier
 title: Tanzflächen-Fotografie: Highlights der Hochzeitsfeier
 description: Erlebe die Magie der Tanzflächen-Fotografie! Fange die Emotionen und Highlights deiner Hochzeitsfeier ein. Lass dich inspirieren, wie du unvergessliche Momente festhalten kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/73710a6f-4c6a-4dac-9e08-ef2bce71f789-ki3m1f.jpg
+previewImageUrl: /images/optimized/d1a2ce18e54c.jpg
 createdAt: 2023-08-10 17:36:59.909
 updatedAt: null
 categories: ["Tanzfotografie","Emotionen","Hochzeitsfeier","Highlights","Inspiration"]

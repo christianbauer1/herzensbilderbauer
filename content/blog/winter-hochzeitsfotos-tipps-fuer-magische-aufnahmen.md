@@ -3,7 +3,7 @@ slug: winter-hochzeitsfotos-tipps-fuer-magische-aufnahmen
 title: Winter-Hochzeitsfotos: Tipps für magische Aufnahmen
 description: Entdecke magische Winter-Hochzeitsfotos mit unseren Tipps! Erfahre, wie du die Kälte meisterst, das perfekte Licht einfängst und unvergessliche Momente festhältst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/04b552c3-9a45-4e8c-968a-8cdba0ea26a8-dgqw1e.jpg
+previewImageUrl: /images/optimized/da7a578b5ef6.jpg
 createdAt: 2023-05-18 17:18:08.105
 updatedAt: null
 categories: ["Winterhochzeit","Fototipps","Lichtstimmung","Kälteschutz","Emotionen"]

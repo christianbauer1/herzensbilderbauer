@@ -3,7 +3,7 @@ slug: bestes-objektiv-fuer-hochzeitsfotos-auswaehlen
 title: Bestes Objektiv für Hochzeitsfotos auswählen
 description: Entscheide dich für das perfekte Objektiv für deine Hochzeitsfotos! Erfahre, wie du die Emotionen und Schönheit des Tages einfängst. Wähle weise und halte unvergessliche Momente fest.
 creator: Christian
-previewImageUrl: https://utfs.io/f/509f0eda-5b39-46f7-8a1f-525b6f4f678f-lv0phx.jpg
+previewImageUrl: /images/optimized/77950b145d3b.jpg
 createdAt: 2023-11-09 18:38:43.657
 updatedAt: null
 categories: ["Objektivwahl","Emotionen","Schönheit","UnvergesslicheMomente","Hochzeitsfotografie"]

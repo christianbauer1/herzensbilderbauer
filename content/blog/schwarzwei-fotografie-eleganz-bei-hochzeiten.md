@@ -3,7 +3,7 @@ slug: schwarzwei-fotografie-eleganz-bei-hochzeiten
 title: Schwarzweiß-Fotografie: Eleganz bei Hochzeiten
 description: Entdecke die zeitlose Eleganz der Schwarzweiß-Fotografie für deine Hochzeit. Lass dich von der emotionalen Tiefe und künstlerischen Qualität verzaubern.
 creator: Christian
-previewImageUrl: https://utfs.io/f/04acd6c4-c634-480f-88b9-0a389ea10cea-nlj8zu.jpg
+previewImageUrl: /images/optimized/8b64b0324582.jpg
 createdAt: 2023-07-23 17:18:07.978
 updatedAt: null
 categories: ["Schwarzweiß","Eleganz","Emotionen","Kunst","Hochzeitsfotografie"]

@@ -3,7 +3,7 @@ slug: checkliste-fuer-hochzeitsfotografen-vorbereitungstipps
 title: Checkliste für Hochzeitsfotografen: Vorbereitungstipps
 description: Die perfekte Hochzeitsfotografie beginnt mit einer gründlichen Vorbereitung. Erfahre, warum technische und persönliche Aspekte entscheidend sind. Entdecke wertvolle Tipps für unvergessliche Hochzeitsfotos!
 creator: Christian
-previewImageUrl: https://utfs.io/f/d7cf0db5-7c0a-490a-ac2e-2a15e72827a7-h5trtz.jpg
+previewImageUrl: /images/optimized/dbc7a1ca7934.jpg
 createdAt: 2023-09-20 17:34:35.946
 updatedAt: null
 categories: ["Vorbereitung","Technik","Persönlich","Tipps","Hochzeitsfotos"]

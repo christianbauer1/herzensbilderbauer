@@ -3,7 +3,7 @@ slug: disziplin-und-timing-erfolgsgeheimnisse-fuer-hochzeitsfotografen
 title: Disziplin und Timing: Erfolgsgeheimnisse für Hochzeitsfotografen
 description: Erfahre, wie Disziplin und Timing deine Hochzeitsfotos auf das nächste Level heben können. Entdecke die Geheimnisse für unvergessliche Aufnahmen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/0870a304-b5f6-4a17-a51b-11a1b4acfe6d-6pm3ib.jpg
+previewImageUrl: /images/optimized/18c74bc1f91b.jpg
 createdAt: 2023-09-17 17:40:59.06
 updatedAt: null
 categories: ["Disziplin","Timing","Hochzeitsfotos","Geheimnisse","Aufnahmen"]

@@ -3,7 +3,7 @@ slug: auswahl-der-top-bilder-fuer-ihr-hochzeitsalbum
 title: Auswahl der Top-Bilder für Ihr Hochzeitsalbum
 description: Wähle die besten Bilder für dein Hochzeitsalbum aus, um die einzigartigen Momente und Emotionen deines besonderen Tages festzuhalten. Erfahre, wie du die perfekte Auswahl triffst!
 creator: Christian
-previewImageUrl: https://utfs.io/f/f8a3cc4b-e271-4e9f-a57f-bcff85ebfe47-ri1fay.jpg
+previewImageUrl: /images/optimized/bf1e12478ad7.jpg
 createdAt: 2023-08-12 17:45:00.637
 updatedAt: null
 categories: ["Bildauswahl","Emotionen","Hochzeitsalbum","Momente","Perfektion"]

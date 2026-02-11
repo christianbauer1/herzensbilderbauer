@@ -3,7 +3,7 @@ slug: geheime-momente-vor-und-nach-der-hochzeitszeremonie
 title: Geheime Momente: Vor und nach der Hochzeitszeremonie
 description: Authentische Hochzeitsfotos voller Emotionen und Liebe einfangen? Erfahre, warum die Momente vor und nach der Zeremonie so wertvoll sind. Tipps für unvergessliche Bilder!
 creator: Christian
-previewImageUrl: https://utfs.io/f/f6e09637-62ed-4fc8-a406-86237d4d18fa-2msge.jpg
+previewImageUrl: /images/optimized/9de8c017c236.jpg
 createdAt: 2023-11-17 18:36:35.728
 updatedAt: null
 categories: ["Vorfreude","First-Look","Brautpaar-Shooting","Candid-Moments","Golden-Hour"]

@@ -3,7 +3,7 @@ slug: licht-in-der-hochzeitsfotografie-natuerlich-vs-kuenstlich
 title: Licht in der Hochzeitsfotografie: Natürlich vs. Künstlich
 description: Entdecke, wie du mit natürlichem und künstlichem Licht in der Hochzeitsfotografie zauberhafte Momente einfangen kannst. Tipps für perfekte Aufnahmen, die Herzen erwärmen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/e97aa521-3ea8-4f0e-8d4a-261d9d46a704-50d2rj.jpg
+previewImageUrl: /images/optimized/370e95527133.jpg
 createdAt: 2023-11-01 18:16:05.723
 updatedAt: null
 categories: ["Lichtsetzung","Stimmung","Techniken","Ausrüstung","Inspiration"]

@@ -3,7 +3,7 @@ slug: fotografie-von-ethnischen-hochzeiten-ein-guide
 title: Fotografie von ethnischen Hochzeiten: Ein Guide
 description: Entdecke die Schönheit und Vielfalt von ethnischen Hochzeiten! Erfahre, wie du als Fotograf kulturelle Traditionen einfühlsam einfängst und unvergessliche Momente festhältst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/75138f8a-a93b-4567-ac85-7c4d786ee070-lsv9wb.jpg
+previewImageUrl: /images/optimized/5989bfcec87b.jpg
 createdAt: 2023-05-28 17:38:44.134
 updatedAt: null
 categories: ["Ethnische Hochzeiten","Kulturelle Traditionen","Hochzeitsfotografie","Vielfalt","Unvergessliche Momente"]

@@ -3,7 +3,7 @@ slug: klassisches-portraet-renaissance-in-der-hochzeitsfotografie
 title: Klassisches Porträt: Renaissance in der Hochzeitsfotografie
 description: Entdecke die Renaissance der klassischen Porträts in der Hochzeitsfotografie. Zeitlose Eleganz und Emotionen für deine unvergesslichen Momente. Finde den perfekten Fotografen für deine Liebe!
 creator: Christian
-previewImageUrl: https://utfs.io/f/348f5de6-8358-4a50-b780-3a57c7f3f096-57r3to.jpg
+previewImageUrl: /images/optimized/cb0cad3d6af6.jpg
 createdAt: 2024-03-30 18:36:34.725
 updatedAt: null
 categories: ["Renaissance","Klassisch","Eleganz","Emotionen","Fotografen"]

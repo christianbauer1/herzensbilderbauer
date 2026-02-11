@@ -3,7 +3,7 @@ slug: top-techniken-fuer-beeindruckende-hochzeitsfotos
 title: Top Techniken für beeindruckende Hochzeitsfotos
 description: Entdecke die Top Techniken für unvergessliche Hochzeitsfotos! Erfahre, wie du mit der richtigen Ausrüstung, Lichtverhältnissen, Komposition, Emotionen und Post-Processing beeindruckende Bilder kreierst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/70e9b026-1f97-4861-8769-09722ef5efb5-99q20p.jpg
+previewImageUrl: /images/optimized/85003f11d20c.jpg
 createdAt: 2024-04-13 17:43:03.526
 updatedAt: null
 categories: ["Ausrüstung","Lichtsetzung","Komposition","Emotionen","Post-Processing"]

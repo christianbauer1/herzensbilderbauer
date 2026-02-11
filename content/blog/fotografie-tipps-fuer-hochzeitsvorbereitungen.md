@@ -3,7 +3,7 @@ slug: fotografie-tipps-fuer-hochzeitsvorbereitungen
 title: Fotografie-Tipps für Hochzeitsvorbereitungen
 description: Entdecke wichtige Fotografie-Tipps für deine Hochzeitsvorbereitungen! Wähle den perfekten Hochzeitsfotografen, plane den Zeitplan und halte unvergessliche Momente fest.
 creator: Christian
-previewImageUrl: https://utfs.io/f/0dc82e21-1cab-4c86-b10b-8126c59f797a-e5rqh6.jpg
+previewImageUrl: /images/optimized/23833909b04e.jpg
 createdAt: 2023-11-08 18:42:57.232
 updatedAt: null
 categories: ["Hochzeitsfotograf","Zeitplanung","Fotografie-Tipps","Unvergessliche Momente","Hochzeitsvorbereitungen"]

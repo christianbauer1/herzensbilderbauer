@@ -3,7 +3,7 @@ slug: hochzeitskarten-fotografieren-praktische-tipps
 title: Hochzeitskarten fotografieren: Praktische Tipps
 description: Entdecke praktische Tipps, wie du die Schönheit von Hochzeitskarten in deiner Fotografie einfangen kannst. Von Belichtung bis Komposition - bringe deine Hochzeitskartenfotos auf das nächste Level!
 creator: Christian
-previewImageUrl: https://utfs.io/f/4b98cd45-12ee-422f-a045-5b4d59f4557d-uocw5a.jpg
+previewImageUrl: /images/optimized/449e84b41d2d.jpg
 createdAt: 2023-07-22 17:38:56.051
 updatedAt: null
 categories: ["Belichtung","Komposition","Details","Kreativität","Farben"]

@@ -3,7 +3,7 @@ slug: hochzeitsfotografie-wichtige-dos-und-donts
 title: Hochzeitsfotografie: Wichtige Do’s und Don’ts
 description: Entdecke die wichtigsten Do’s und Don’ts in der Hochzeitsfotografie! Erfahre, warum frühzeitige Buchung und klare Kommunikation entscheidend sind. Vermeide Fehler wie das Unterschätzen des Lichts und zu viele Vorgaben für den Fotografen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/f3084a9c-8123-4019-8cf8-6c39c9e02c7f-bz4nui.jpg
+previewImageUrl: /images/optimized/236379d33a3c.jpg
 createdAt: 2023-05-25 17:20:19.551
 updatedAt: null
 categories: ["Buchung","Kommunikation","Licht","Vorgaben","Fehlervermeidung"]

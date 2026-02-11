@@ -3,7 +3,7 @@ slug: schwarz-wei-fotografie-zeitloser-trend-in-hochzeiten
 title: Schwarz-Weiß-Fotografie: Zeitloser Trend in Hochzeiten
 description: Entdecke die zeitlose Eleganz von Schwarz-Weiß-Fotografie für deine Hochzeit. Erfahre, wie monochrome Bilder Emotionen intensivieren und Momente für die Ewigkeit festhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/609023a9-fcf0-4e38-9302-648d7cda4595-1u9gi.jpg
+previewImageUrl: /images/optimized/71cf4b809074.jpg
 createdAt: 2024-02-09 18:36:35.33
 updatedAt: null
 categories: ["Monochrome","Emotionen","Ewigkeit","Hochzeitsfotografie","Schwarz-Weiß"]

@@ -3,7 +3,7 @@ slug: destination-wedding-tipps-fuer-die-fotografie
 title: Destination Wedding: Tipps für die Fotografie
 description: Entdecke die Magie einer Destination Wedding mit Tipps für die Fotografie. Erfahre, wie du die Schönheit und Emotionen deines besonderen Tages für immer festhalten kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/2826d646-3c14-4049-ad22-b712cbb83f67-pqr3h3.jpg
+previewImageUrl: /images/optimized/a2bfa601df79.jpg
 createdAt: 2023-07-23 17:32:36.457
 updatedAt: null
 categories: ["Destination","Hochzeitsfotografie","Emotionen","Tipps","Schönheit"]

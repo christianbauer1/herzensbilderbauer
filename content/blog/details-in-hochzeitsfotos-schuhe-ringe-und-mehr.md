@@ -3,7 +3,7 @@ slug: details-in-hochzeitsfotos-schuhe-ringe-und-mehr
 title: Details in Hochzeitsfotos: Schuhe, Ringe und mehr
 description: Entdecke die Bedeutung von Details in Hochzeitsfotos! Erfahre, warum Schuhe, Ringe und mehr den Tag unvergesslich machen. Lass dich inspirieren für deine perfekten Hochzeitsbilder.
 creator: Christian
-previewImageUrl: https://utfs.io/f/b346f7e2-86e8-470d-8516-5d3f55707eb7-tnvbfs.jpg
+previewImageUrl: /images/optimized/2e0618bc4a59.jpg
 createdAt: 2023-08-10 17:32:16.315
 updatedAt: null
 categories: ["Details","Accessoires","Emotionen","Kreativität","Erinnerungen"]

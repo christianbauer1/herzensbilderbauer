@@ -3,7 +3,7 @@ slug: hochzeitsdekoration-fotografieren-praktische-tipps
 title: Hochzeitsdekoration fotografieren: Praktische Tipps
 description: Entdecke praktische Tipps, um Hochzeitsdekoration perfekt zu fotografieren. Von Ausrüstung bis Lichtverhältnisse - alles für atemberaubende Bilder.
 creator: Christian
-previewImageUrl: https://utfs.io/f/e0f88b89-0c88-498a-8220-605793e87ada-33otil.jpg
+previewImageUrl: /images/optimized/733d811ea569.jpg
 createdAt: 2024-04-22 17:27:01.113
 updatedAt: null
 categories: ["Ausrüstung","Lichtsetzung","Perspektive","Farbkontraste","Detailaufnahmen"]

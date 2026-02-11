@@ -3,7 +3,7 @@ slug: brautpaar-portraits-tipps-fuer-perfekte-hochzeitsfotos
 title: Brautpaar-Portraits: Tipps für perfekte Hochzeitsfotos
 description: Entdecke, wie du mit Brautpaar-Portraits die Liebe und Emotionen eurer Hochzeit festhalten kannst. Tipps für Vorbereitung, Location, Posen und mehr!
 creator: Christian
-previewImageUrl: https://utfs.io/f/5cb5eaa1-ae75-4a5c-a1e0-a446bb8e3d2f-k7dypu.jpg
+previewImageUrl: /images/optimized/0a548a1be3b6.jpg
 createdAt: 2023-07-05 17:32:28.374
 updatedAt: null
 categories: ["Brautpaar-Portraits","Liebe","Emotionen","Vorbereitung","Posen"]

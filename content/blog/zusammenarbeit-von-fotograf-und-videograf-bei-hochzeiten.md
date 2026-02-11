@@ -3,7 +3,7 @@ slug: zusammenarbeit-von-fotograf-und-videograf-bei-hochzeiten
 title: Zusammenarbeit von Fotograf und Videograf bei Hochzeiten
 description: Die perfekte Hochzeit braucht die perfekte Zusammenarbeit von Fotograf und Videograf. Erfahre, wie sie gemeinsam unvergessliche Momente festhalten und dein Hochzeitserlebnis auf ein neues Level heben können.
 creator: Christian
-previewImageUrl: https://utfs.io/f/46d9d4ac-7761-48d0-87e9-3def979be47d-g1fkg1.jpg
+previewImageUrl: /images/optimized/7ce53cdb7fa5.jpg
 createdAt: 2024-04-26 17:34:24.076
 updatedAt: null
 categories: ["Zusammenarbeit","Momente","Hochzeitserlebnis","Fotografie","Videografie"]

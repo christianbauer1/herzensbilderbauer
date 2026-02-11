@@ -3,7 +3,7 @@ slug: kommunikationstipps-fuer-hochzeitsfotografen
 title: Kommunikationstipps für Hochzeitsfotografen
 description: Erfahre, wie gute Kommunikation als Hochzeitsfotograf den Unterschied macht. Verstehe die Erwartungen, führe Planungsgespräche und halte am Hochzeitstag klare Kommunikation aufrecht.
 creator: Christian
-previewImageUrl: https://utfs.io/f/fa5d4fb4-dbcb-49b6-afcd-dd49e1e4bead-i57v17.jpg
+previewImageUrl: /images/optimized/fc45187b6f38.jpg
 createdAt: 2023-09-12 17:36:36.376
 updatedAt: null
 categories: ["Kommunikation","Erwartungen","Planungsgespräche","Hochzeitstag","Kundenbeziehung"]

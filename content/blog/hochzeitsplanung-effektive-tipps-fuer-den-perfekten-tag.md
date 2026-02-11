@@ -3,7 +3,7 @@ slug: hochzeitsplanung-effektive-tipps-fuer-den-perfekten-tag
 title: Hochzeitsplanung: Effektive Tipps für den perfekten Tag
 description: Tipps für die perfekte Hochzeitsplanung: Budget festlegen, Prioritäten setzen, Hochzeitsfotograf sorgfältig auswählen und rechtzeitig Location sichern. So wird euer großer Tag unvergesslich!
 creator: Christian
-previewImageUrl: https://utfs.io/f/98374ee7-2b44-4882-bcfb-58bfaa51fdec-qg7mzo.jpg
+previewImageUrl: /images/optimized/18eb8dbc850d.jpg
 createdAt: 2023-06-07 17:12:15.043
 updatedAt: null
 categories: ["Budgetplanung","Priorisierung","Fotografenauswahl","Locationsuche","Hochzeitsvorbereitung"]

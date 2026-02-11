@@ -3,7 +3,7 @@ slug: warum-hochzeitsfotografie-auf-deiner-hochzeit-essenziell-ist
 title: Warum Hochzeitsfotografie auf deiner Hochzeit essenziell ist
 description: Hochzeitsfotografie ist mehr als nur Bilder - sie fängt die Emotionen deines besonderen Tages ein. Erfahre, warum die Wahl des richtigen Fotografen entscheidend ist!
 creator: Christian
-previewImageUrl: https://utfs.io/f/8b1a246c-5732-4b8f-854e-806f95d58df9-w22vz3.jpg
+previewImageUrl: /images/optimized/389a154b7cca.jpg
 createdAt: 2024-03-03 18:18:11.667
 updatedAt: null
 categories: ["Emotionen","Hochzeitsfotograf","Entscheidung","Bedeutung","Erfahrung"]

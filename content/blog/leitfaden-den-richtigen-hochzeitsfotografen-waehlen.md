@@ -3,7 +3,7 @@ slug: leitfaden-den-richtigen-hochzeitsfotografen-waehlen
 title: Leitfaden: Den richtigen Hochzeitsfotografen wählen!
 description: Finde den idealen Hochzeitsfotografen für deine Traumhochzeit! Erfahre, worauf es ankommt, von Stilrichtungen bis zur Portfolio-Analyse. Lass uns gemeinsam den perfekten Fotografen finden!
 creator: Christian
-previewImageUrl: https://utfs.io/f/345d3806-fd90-44b8-8806-1833363b77c5-9w137p.jpg
+previewImageUrl: /images/optimized/8c6c8a126067.jpg
 createdAt: 2024-03-21 18:14:08.208
 updatedAt: null
 categories: ["Stilrichtungen","Portfolio","Qualifikationen","Kundenbewertungen","Preisgestaltung"]

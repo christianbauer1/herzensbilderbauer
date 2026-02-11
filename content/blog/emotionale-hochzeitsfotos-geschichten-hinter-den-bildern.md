@@ -3,7 +3,7 @@ slug: emotionale-hochzeitsfotos-geschichten-hinter-den-bildern
 title: Emotionale Hochzeitsfotos: Geschichten hinter den Bildern!
 description: Entdecke die Magie emotionaler Hochzeitsfotos! Erfahre, wie sie die Essenz deiner Liebe einfangen und unvergessliche Momente für die Ewigkeit bewahren.
 creator: Christian
-previewImageUrl: https://utfs.io/f/af2d4224-76ce-42ef-8d16-06fa4516ce78-ytyp5c.jpg
+previewImageUrl: /images/optimized/be69e2d0b1c3.jpg
 createdAt: 2023-09-22 17:14:07.196
 updatedAt: null
 categories: ["Emotionen","Liebesgeschichte","Fotografie-Stil","Erinnerungen","Hochzeitsmomente"]

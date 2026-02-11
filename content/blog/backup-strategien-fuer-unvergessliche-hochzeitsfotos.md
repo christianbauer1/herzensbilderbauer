@@ -3,7 +3,7 @@ slug: backup-strategien-fuer-unvergessliche-hochzeitsfotos
 title: Backup-Strategien für unvergessliche Hochzeitsfotos
 description: Sichere deine unvergesslichen Hochzeitsfotos mit effektiven Backup-Strategien. Lokale Backups, Cloud-Backups und kombinierte Lösungen bieten Sicherheit und Schutz. Erfahre, wie du Datenverlust vermeidest!
 creator: Christian
-previewImageUrl: https://utfs.io/f/3576afc8-e25d-490d-a102-f69ff6516f5f-emjec4.jpg
+previewImageUrl: /images/optimized/a92271acf1e0.jpg
 createdAt: 2023-09-01 17:40:57.058
 updatedAt: null
 categories: ["Backup-Strategien","Lokale Backups","Cloud-Backups","Datenverlust","Sicherheit"]

@@ -3,7 +3,7 @@ slug: generationenportraets-zeitlose-liebe-in-hochzeitsfotos
 title: Generationenporträts: Zeitlose Liebe in Hochzeitsfotos
 description: Entdecke die Magie von Generationenporträts bei Hochzeiten! Zeitlose Liebe und Familiengeschichte in wunderschönen Fotos festgehalten. Erfahre, wie du diese einzigartigen Erinnerungen für deine Familie schaffen kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/dfc29aea-9820-4aae-9314-6dd314f5d67b-l8ltbf.jpg
+previewImageUrl: /images/optimized/dc44b9f7d53e.jpg
 createdAt: 2023-07-19 17:12:14.365
 updatedAt: null
 categories: ["Generationenporträts","Zeitlose Liebe","Familiengeschichte","Erinnerungen","Familienfotos"]

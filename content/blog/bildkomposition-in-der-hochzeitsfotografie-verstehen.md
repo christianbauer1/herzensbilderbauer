@@ -3,7 +3,7 @@ slug: bildkomposition-in-der-hochzeitsfotografie-verstehen
 title: Bildkomposition in der Hochzeitsfotografie verstehen
 description: Erfahre, wie du als angehender Hochzeitsfotograf mit Bildkomposition Herzen eroberst. Meistere Regel der Drittel, spiele mit Licht und Schatten für emotionale Tiefe. Entdecke die Welt der Hochzeitsfotografie!
 creator: Christian
-previewImageUrl: https://utfs.io/f/7bc420fb-f30e-4ef9-bce7-ddb5d1ccc17c-dyhnog.jpg
+previewImageUrl: /images/optimized/36407a4fd8a7.jpg
 createdAt: 2024-02-01 18:22:09.539
 updatedAt: null
 categories: ["Bildkomposition","Regel der Drittel","Licht und Schatten","Emotionale Tiefe","Hochzeitsfotografie"]

@@ -3,7 +3,7 @@ slug: beste-software-fuer-hochzeitsfoto-nachbearbeitung-2023
 title: Beste Software für Hochzeitsfoto-Nachbearbeitung 2023
 description: Entdecke die beste Software für die Nachbearbeitung deiner Hochzeitsfotos 2023. Perfektioniere deine Bilder mit Adobe Photoshop, Lightroom, Capture One und mehr!
 creator: Christian
-previewImageUrl: https://utfs.io/f/cfb9e10f-e24d-4e50-856e-5a8b4c582149-jmhnij.jpg
+previewImageUrl: /images/optimized/02aa86b78452.jpg
 createdAt: 2023-06-19 17:28:59.797
 updatedAt: null
 categories: ["Bildbearbeitung","Adobe","Fotografie","Software","Tipps"]

@@ -3,7 +3,7 @@ slug: brautstrauwurf-fotografieren-tipps-fuer-den-perfekten-shot
 title: Brautstraußwurf fotografieren: Tipps für den perfekten Shot
 description: Erlebe den magischen Brautstraußwurf als Hochzeitsfotograf: Tipps für perfekte Aufnahmen voller Emotionen und Freude. Erfahre, wie du den Moment mit Leidenschaft festhalten kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/e1b53292-4167-4929-bb8a-a6b524a11695-400mdb.jpg
+previewImageUrl: /images/optimized/28e799a79ad8.jpg
 createdAt: 2023-08-15 17:32:17.34
 updatedAt: null
 categories: ["Brautstraußwurf","Hochzeitsfotografie","Emotionen","Leidenschaft","Tipps"]

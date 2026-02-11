@@ -3,7 +3,7 @@ slug: goldener-schnitt-anwendung-in-der-hochzeitsfotografie
 title: Goldener Schnitt: Anwendung in der Hochzeitsfotografie
 description: Entdecke, wie der Goldene Schnitt deine Hochzeitsfotos veredelt! Lerne, wie dieses mathematische Verhältnis Harmonie und Ästhetik schafft. Steigere die emotionale Wirkung deiner Bilder!
 creator: Christian
-previewImageUrl: https://utfs.io/f/95a604aa-631b-4d8c-83f3-983f1ca8ee5a-gzf5xy.jpg
+previewImageUrl: /images/optimized/579fa5dab211.jpg
 createdAt: 2023-10-20 17:34:21.962
 updatedAt: null
 categories: ["Goldener Schnitt","Harmonie","Ästhetik","Emotionen","Fotografie"]

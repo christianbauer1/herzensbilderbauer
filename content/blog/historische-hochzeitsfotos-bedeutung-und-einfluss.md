@@ -3,7 +3,7 @@ slug: historische-hochzeitsfotos-bedeutung-und-einfluss
 title: Historische Hochzeitsfotos: Bedeutung und Einfluss
 description: Entdecke die Faszination historischer Hochzeitsfotos! Erfahre, wie sie moderne Hochzeiten inspirieren und zeitlose Liebe festhalten. Tauche ein in eine Welt voller Emotionen und Traditionen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/a194fba7-3220-4429-acd1-79900ce482a2-s2z8yd.jpg
+previewImageUrl: /images/optimized/a79b265d0f1c.jpg
 createdAt: 2023-07-16 17:34:22.563
 updatedAt: null
 categories: ["Vintage","Emotionen","Traditionen","Inspiration","Liebe"]

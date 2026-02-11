@@ -3,7 +3,7 @@ slug: familienfotos-bei-der-hochzeit-liebe-und-freude-festhalten
 title: Familienfotos bei der Hochzeit: Liebe und Freude festhalten
 description: Familienfotos bei der Hochzeit sind zeitlose Erinnerungen an Liebe und Freude. Erfahre, wie du mit natürlichen Posen und Emotionen atemberaubende Bilder schaffst!
 creator: Christian
-previewImageUrl: https://utfs.io/f/4aeb03db-a270-45d6-8707-06254c39b833-4fv0wl.jpg
+previewImageUrl: /images/optimized/13222463fc45.jpg
 createdAt: 2024-03-31 17:12:11.593
 updatedAt: null
 categories: ["Natürlich","Posen","Emotionen","Liebe","Familie"]

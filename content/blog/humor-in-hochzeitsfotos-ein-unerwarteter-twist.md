@@ -3,7 +3,7 @@ slug: humor-in-hochzeitsfotos-ein-unerwarteter-twist
 title: Humor in Hochzeitsfotos: Ein unerwarteter Twist
 description: Entdecke, wie Humor in Hochzeitsfotos eine frische Perspektive bietet und unvergessliche Momente einfängt. Lass dich inspirieren, um deinen großen Tag noch spezieller zu gestalten!
 creator: Christian
-previewImageUrl: https://utfs.io/f/dbbf2f20-3676-4ec4-8325-524ed5f399b4-tsfz0g.jpg
+previewImageUrl: /images/optimized/bffe1554cb10.jpg
 createdAt: 2024-02-29 18:40:54.486
 updatedAt: null
 categories: ["Humor","Kreativität","Hochzeitsfotografie","Emotionen","Inspiration"]

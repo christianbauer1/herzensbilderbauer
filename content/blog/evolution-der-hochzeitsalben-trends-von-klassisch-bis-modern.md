@@ -3,7 +3,7 @@ slug: evolution-der-hochzeitsalben-trends-von-klassisch-bis-modern
 title: Evolution der Hochzeitsalben: Trends von klassisch bis modern
 description: Entdecke die Evolution der Hochzeitsalben von klassisch bis modern! Finde das perfekte Album für deine Liebe und schaffe unvergessliche Erinnerungen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/3d5c72dd-dba1-49ae-b795-1021dca71c7b-5gxna2.jpg
+previewImageUrl: /images/optimized/c1d06a271415.jpg
 createdAt: 2024-04-17 17:24:18.947
 updatedAt: null
 categories: ["Vintage","Digital","Handgefertigt","Personalisiert","Online-Galerie"]

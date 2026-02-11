@@ -3,7 +3,7 @@ slug: stressfrei-heiraten-tipps-fuer-braut-braeutigam
 title: Stressfrei heiraten: Tipps für Braut & Bräutigam
 description: Stressfrei heiraten: Tipps für Braut & Bräutigam. Erfahre, wie Zeitmanagement, Dienstleisterwahl, Kommunikation und Entspannungstechniken deinen Hochzeitstag unvergesslich machen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/cd15757e-d550-4037-972d-b22c15ed1367-3m85u3.jpg
+previewImageUrl: /images/optimized/eb26a96c0e89.jpg
 createdAt: 2023-12-06 18:42:52.634
 updatedAt: null
 categories: ["Zeitmanagement","Dienstleisterwahl","Kommunikation","Entspannungstechniken","Hochzeitstipps"]

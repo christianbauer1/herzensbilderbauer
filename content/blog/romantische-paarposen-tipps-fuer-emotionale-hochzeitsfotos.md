@@ -3,7 +3,7 @@ slug: romantische-paarposen-tipps-fuer-emotionale-hochzeitsfotos
 title: Romantische Paarposen: Tipps für emotionale Hochzeitsfotos
 description: Entdecke die Magie romantischer Paarposen für emotionale Hochzeitsfotos. Tipps zur Vorbereitung, natürlichen Posen und einzigartigen Ideen für unvergessliche Bilder!
 creator: Christian
-previewImageUrl: https://utfs.io/f/1631ac8b-8d1e-4d07-b319-4cde032cf17b-np7tgt.jpg
+previewImageUrl: /images/optimized/cf1620200d38.jpg
 createdAt: 2024-03-23 18:12:10.551
 updatedAt: null
 categories: ["Paarposen","Vorbereitung","Natürlich","Ideen","Emotionen"]

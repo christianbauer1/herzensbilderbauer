@@ -3,7 +3,7 @@ slug: symmetrie-und-balance-in-hochzeitsfotos-meistern
 title: Symmetrie und Balance in Hochzeitsfotos meistern
 description: Erschaffe mit Symmetrie und Balance in Hochzeitsfotos visuelle Harmonie und emotionale Tiefe. Meistere diese Elemente für unvergessliche Erinnerungen an deinen besonderen Tag!
 creator: Christian
-previewImageUrl: https://utfs.io/f/351dd995-50a5-4a35-a554-2a5bae6057e6-iwisvh.jpg
+previewImageUrl: /images/optimized/ab755873cd50.jpg
 createdAt: 2023-07-22 17:28:52.997
 updatedAt: null
 categories: ["Symmetrie","Balance","Harmonie","Emotionen","Erinnerungen"]

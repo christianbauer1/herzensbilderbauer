@@ -3,7 +3,7 @@ slug: jahreszeiten-effekte-auf-hochzeitsfoto-farben
 title: Jahreszeiten-Effekte auf Hochzeitsfoto-Farben
 description: Entdecke, wie die Jahreszeiten die Farben deiner Hochzeitsfotos beeinflussen können. Erfahre, wie Frühling, Sommer, Herbst und Winter eine einzigartige Atmosphäre schaffen. Finde die perfekte Jahreszeit für deine Traumhochzeit!
 creator: Christian
-previewImageUrl: https://utfs.io/f/3c2d20b0-2945-44da-a58c-8b5d476fd7d9-4rdbve.jpg
+previewImageUrl: /images/optimized/acfba4c89583.jpg
 createdAt: 2024-02-15 18:38:43.156
 updatedAt: null
 categories: ["Farbpalette","Stimmung","Hochzeitsplanung","Inspiration","Fotografie"]

@@ -3,7 +3,7 @@ slug: hochzeitsfotos-ohne-blitz-tipps-fuer-natuerliche-bilder
 title: Hochzeitsfotos ohne Blitz: Tipps für natürliche Bilder
 description: Entdecke die Magie von natürlichen Hochzeitsfotos ohne Blitz! Erfahre, wie du mit sanftem Licht und Emotionen unvergessliche Bilder kreierst. Tauche ein in die Welt der natürlichen Hochzeitsfotografie.
 creator: Christian
-previewImageUrl: https://utfs.io/f/509816f5-0c32-40e7-a2ee-0162c1e76f69-urtxt1.jpg
+previewImageUrl: /images/optimized/ddb2b2a19c62.jpg
 createdAt: 2023-09-07 17:27:03.626
 updatedAt: null
 categories: ["Natürlich","Sanftes Licht","Emotionen","Unvergesslich","Hochzeitsfotografie"]

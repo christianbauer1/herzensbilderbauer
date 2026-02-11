@@ -3,7 +3,7 @@ slug: hochzeitsalbum-erstellen-tipps-fuer-emotionale-erinnerungen
 title: Hochzeitsalbum erstellen: Tipps für emotionale Erinnerungen
 description: Erstelle ein emotionales Hochzeitsalbum, das Generationen überdauert. Tipps zur Auswahl des Fotografen, Planung des Tages und Gestaltung des Albums. Pflegehinweise für langanhaltende Erinnerungen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/81478adf-ec2a-44b6-b5e4-908dd260d6dd-18u4st.jpg
+previewImageUrl: /images/optimized/6cf7496989ea.jpg
 createdAt: 2024-03-07 18:12:15.401
 updatedAt: null
 categories: ["Fotografenauswahl","Tagesplanung","Albumgestaltung","Generationen","Pflegehinweise"]

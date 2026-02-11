@@ -3,7 +3,7 @@ slug: traditionelle-digitale-techniken-in-hochzeitsfotos
 title: Traditionelle & digitale Techniken in Hochzeitsfotos
 description: Entdecke die perfekte Mischung aus traditionellen und digitalen Fototechniken für unvergessliche Hochzeitsfotos. Lass dich inspirieren und finde den Stil, der deine Liebe und Emotionen am besten einfängt!
 creator: Christian
-previewImageUrl: https://utfs.io/f/e581504a-24fc-4787-8df5-4cd80b3967fd-geyg04.jpg
+previewImageUrl: /images/optimized/57850d4175fd.jpg
 createdAt: 2023-07-03 17:45:07.209
 updatedAt: null
 categories: ["Analog","Vintage","Kreativ","Emotionen","Hochzeitsfotografie"]

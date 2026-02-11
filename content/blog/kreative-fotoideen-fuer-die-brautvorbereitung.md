@@ -3,7 +3,7 @@ slug: kreative-fotoideen-fuer-die-brautvorbereitung
 title: Kreative Fotoideen für die Brautvorbereitung
 description: Entdecke kreative Fotoideen für unvergessliche Brautvorbereitungsfotos! Erfahre, wie du Emotionen, Details und Interaktionen perfekt einfangen kannst. Sei bereit, die Magie einzufangen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/df41d7b5-ded4-4a9c-b3b7-db9e952bdda4-1kiprz.jpg
+previewImageUrl: /images/optimized/017ec63ddd82.jpg
 createdAt: 2023-07-03 17:43:00.443
 updatedAt: null
 categories: ["Kreativität","Emotionen","Details","Interaktionen","Magie"]

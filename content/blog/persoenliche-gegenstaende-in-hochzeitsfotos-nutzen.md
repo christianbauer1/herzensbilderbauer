@@ -3,7 +3,7 @@ slug: persoenliche-gegenstaende-in-hochzeitsfotos-nutzen
 title: Persönliche Gegenstände in Hochzeitsfotos nutzen
 description: Entdecke, wie persönliche Gegenstände in Hochzeitsfotos eine einzigartige Note verleihen. Erfahre, warum sie so wichtig sind und wie du sie kreativ einsetzen kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/59762e01-1eda-4ddb-963d-30029587d14e-p2zvag.jpg
+previewImageUrl: /images/optimized/1d9225c75ffa.jpg
 createdAt: 2024-05-04 17:45:08.299
 updatedAt: null
 categories: ["Persönlichkeit","Emotionen","Kreativität","Individualität","Erinnerungen"]

@@ -3,7 +3,7 @@ slug: selfies-bei-der-hochzeit-tipps-fuer-elegante-fotos
 title: Selfies bei der Hochzeit: Tipps für elegante Fotos
 description: Entdecke, wie elegante **Selfies** deine Hochzeit bereichern können. Tipps für Vorbereitung, Orte, Licht, Posen, Apps und Gruppen-Selfies. Mach deinen Tag unvergesslich! 📸
 creator: Christian
-previewImageUrl: https://utfs.io/f/8abc6777-0d15-4d94-bf23-debea0105dcb-jgmi5z.jpg
+previewImageUrl: /images/optimized/8f497fdaf7f6.jpg
 createdAt: 2023-09-25 17:18:11.228
 updatedAt: null
 categories: ["Selfies","Vorbereitung","Orte","Licht","Posen"]

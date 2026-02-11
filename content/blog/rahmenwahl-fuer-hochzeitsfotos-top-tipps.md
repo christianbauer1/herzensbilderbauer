@@ -3,7 +3,7 @@ slug: rahmenwahl-fuer-hochzeitsfotos-top-tipps
 title: Rahmenwahl für Hochzeitsfotos: Top Tipps
 description: Entdecke, wie die richtige Rahmenwahl deine Hochzeitsfotos veredelt! Top Tipps zur Auswahl des perfekten Rahmens für unvergessliche Erinnerungen.
 creator: Christian
-previewImageUrl: https://utfs.io/f/848b3459-8813-4354-bb12-c29bad429645-3bbvui.jpg
+previewImageUrl: /images/optimized/a75e1fc13c12.jpg
 createdAt: 2024-05-05 17:38:48.593
 updatedAt: null
 categories: ["Rahmenwahl","Hochzeitsfotos","Tipps","Erinnerungen","Veredelung"]

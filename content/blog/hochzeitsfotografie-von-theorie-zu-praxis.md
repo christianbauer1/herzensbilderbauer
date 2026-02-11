@@ -3,7 +3,7 @@ slug: hochzeitsfotografie-von-theorie-zu-praxis
 title: Hochzeitsfotografie: Von Theorie zu Praxis
 description: Finde den perfekten Hochzeitsfotografen für unvergessliche Erinnerungen. Tipps zur Auswahl, Planung und Technik für professionelle Hochzeitsfotos. Entdecke die Welt der Hochzeitsfotografie!
 creator: Christian
-previewImageUrl: https://utfs.io/f/c92559a9-042c-45db-a240-f3e87ae0873a-mx1rdd.jpg
+previewImageUrl: /images/optimized/301bdec497f4.jpg
 createdAt: 2024-04-08 17:32:18.439
 updatedAt: null
 categories: ["Auswahl","Planung","Technik","Erinnerungen","Professionell"]

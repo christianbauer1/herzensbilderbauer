@@ -3,7 +3,7 @@ slug: teamarbeit-vorteile-eines-zweiten-fotografen
 title: Teamarbeit: Vorteile eines zweiten Fotografen
 description: Ein zweiter Fotograf für deine Hochzeit? Erfahre, wie mehr Perspektiven, Sicherheit als Backup und Effizienz deine besonderen Momente optimal festhalten können.
 creator: Christian
-previewImageUrl: https://utfs.io/f/0251ea1f-a11a-467f-9734-143b04ad98c9-acr48n.jpg
+previewImageUrl: /images/optimized/5995e820d49f.jpg
 createdAt: 2023-08-26 17:42:59.616
 updatedAt: null
 categories: ["Perspektiven","Backup","Effizienz","Sicherheit","Zusammenarbeit"]

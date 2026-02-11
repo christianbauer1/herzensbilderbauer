@@ -3,7 +3,7 @@ slug: fotografie-tipps-fuer-multikulturelle-hochzeiten
 title: Fotografie-Tipps für multikulturelle Hochzeiten
 description: Entdecke die Welt der multikulturellen Hochzeitsfotografie! Erfahre, wie du kulturelle Bräuche einfängst und mit verschiedenen Hauttönen umgehst. Werde zum Experten für einzigartige Hochzeitsmomente.
 creator: Christian
-previewImageUrl: https://utfs.io/f/00bc30ca-e3d6-4dd7-b901-2395cf2ac2ef-5uwb33.jpg
+previewImageUrl: /images/optimized/70242e840d8e.jpg
 createdAt: 2024-03-29 18:24:35.99
 updatedAt: null
 categories: ["Multikulturell","Kulturelle Bräuche","Hauttöne","Einzigartig","Hochzeitsmomente"]

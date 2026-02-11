@@ -3,7 +3,7 @@ slug: geheime-fotospots-in-ansbach-fuer-hochzeiten
 title: Geheime Fotospots in Ansbach für Hochzeiten
 description: Entdecke die geheimen Fotospots in Ansbach für unvergessliche Hochzeitsbilder! Von historischer Eleganz bis zur natürlichen Schönheit - finde den perfekten Ort, um deine Liebe festzuhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/9d682067-4198-4afe-a3f1-3d613b0120a4-e45886.jpg
+previewImageUrl: /images/optimized/ceaec37f4000.jpg
 createdAt: 2024-04-05 17:16:12.663
 updatedAt: null
 categories: ["HistorischeOrte","Naturkulisse","Stadtparks","Schlösser","Wasserlandschaften"]

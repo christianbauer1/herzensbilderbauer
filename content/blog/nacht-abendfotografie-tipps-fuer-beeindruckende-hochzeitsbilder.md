@@ -3,7 +3,7 @@ slug: nacht-abendfotografie-tipps-fuer-beeindruckende-hochzeitsbilder
 title: Nacht- & Abendfotografie: Tipps für beeindruckende Hochzeitsbilder
 description: Entdecke die Magie der Nacht- & Abendfotografie bei Hochzeiten! Tipps für romantische Bilder, kreative Techniken & perfekte Planung. Lass deine Liebe im Dunkeln strahlen! 🌙💫
 creator: Christian
-previewImageUrl: https://utfs.io/f/6cf259c8-8616-4598-a862-e9526b109982-qwvmy9.jpg
+previewImageUrl: /images/optimized/304397a647b3.jpg
 createdAt: 2023-12-10 18:24:16.631
 updatedAt: null
 categories: ["Nachtfotografie","RomantischeBilder","KreativeTechniken","PerfektePlanung","LiebeImDunkeln"]

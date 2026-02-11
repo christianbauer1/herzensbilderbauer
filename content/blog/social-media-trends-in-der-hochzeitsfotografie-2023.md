@@ -3,7 +3,7 @@ slug: social-media-trends-in-der-hochzeitsfotografie-2023
 title: Social Media Trends in der Hochzeitsfotografie 2023
 description: Entdecke die neuesten Social Media Trends in der Hochzeitsfotografie 2023! Erfahre, wie du mit Authentizität und Kreativität auf Instagram, Pinterest, TikTok und Facebook erfolgreich sein kannst.
 creator: Christian
-previewImageUrl: https://utfs.io/f/68b8f2fc-d8be-4162-a4a3-493650a48b35-s3fgin.jpg
+previewImageUrl: /images/optimized/a9318250722d.jpg
 createdAt: 2024-02-05 18:20:14.39
 updatedAt: null
 categories: ["Instagram","Pinterest","TikTok","Authentizität","Kreativität"]

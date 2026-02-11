@@ -3,7 +3,7 @@ slug: kirchenfotografie-zauberhafte-hochzeitsbilder
 title: Kirchenfotografie: Zauberhafte Hochzeitsbilder
 description: Zauberhafte Kirchenhochzeitsbilder einfangen: Erfahre, wie du das richtige Licht nutzt, Kompositionstechniken einsetzt und Herausforderungen meisterst. Lass dich inspirieren!
 creator: Christian
-previewImageUrl: https://utfs.io/f/486c1c5a-ed03-4293-92b8-2284bb484ce1-9bsgzr.jpg
+previewImageUrl: /images/optimized/f973861c5b74.jpg
 createdAt: 2023-08-31 17:16:12.691
 updatedAt: null
 categories: ["Lichtführung","Komposition","Herausforderungen","Inspiration","Kirchenhochzeit"]

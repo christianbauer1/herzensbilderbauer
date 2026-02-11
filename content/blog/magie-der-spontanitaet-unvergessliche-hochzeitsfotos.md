@@ -3,7 +3,7 @@ slug: magie-der-spontanitaet-unvergessliche-hochzeitsfotos
 title: Magie der Spontanität: Unvergessliche Hochzeitsfotos
 description: Entdecke die Magie spontaner Hochzeitsfotos! Erfahre, wie ungeplante Momente die Essenz einer Hochzeit einfangen. Tipps für Paare und Fotografen, um unvergessliche Augenblicke festzuhalten.
 creator: Christian
-previewImageUrl: https://utfs.io/f/df3c2bf3-fe7a-4585-8a19-bc1356304842-cvf2jl.jpg
+previewImageUrl: /images/optimized/c77a7238d767.jpg
 createdAt: 2023-07-03 17:12:10.496
 updatedAt: null
 categories: ["Spontanität","Emotionen","Hochzeitsmomente","Fotografie-Tipps","Unvergesslich"]

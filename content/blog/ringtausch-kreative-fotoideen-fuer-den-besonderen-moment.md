@@ -3,7 +3,7 @@ slug: ringtausch-kreative-fotoideen-fuer-den-besonderen-moment
 title: Ringtausch: Kreative Fotoideen für den besonderen Moment
 description: Erlebe den magischen Ringtausch in einzigartigen Fotos festgehalten. Tipps für kreative Ideen, Perspektiven, Licht, Details und Emotionen. Lass deine Hochzeitsfotos strahlen!
 creator: Christian
-previewImageUrl: https://utfs.io/f/88f3f720-e949-4a2d-8565-4f276bc0db0e-90mhhy.jpg
+previewImageUrl: /images/optimized/2726de3a1b6e.jpg
 createdAt: 2023-06-14 17:40:56.491
 updatedAt: null
 categories: ["Ringtausch","Kreative Ideen","Perspektiven","Licht","Emotionen"]

@@ -3,7 +3,7 @@ slug: hochzeitstorten-fotografieren-tipps-fuer-kreative-bilder
 title: Hochzeitstorten fotografieren: Tipps für kreative Bilder
 description: Entdecke kreative Tipps für Hochzeitstorten-Fotos! Erfahre, wie du mit Licht, Perspektiven und Details einzigartige Bilder zauberst, die die Herzen der Paare berühren.
 creator: Christian
-previewImageUrl: https://utfs.io/f/7d7a1711-b505-4c97-8b1f-82620efac2a9-rm0dqy.jpg
+previewImageUrl: /images/optimized/92653700aaf2.jpg
 createdAt: 2024-03-04 18:27:00.102
 updatedAt: null
 categories: ["Lichtspiel","Perspektiven","Detailaufnahmen","Kreativität","Hochzeitstorten"]
