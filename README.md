@@ -1,9 +1,5 @@
 # README
 
-## Akute Todos
-
-- upgrade to nextjs 15, then 16! security issues!
-
 # 100 reasons to live:
 
 1. to make your parents proud
