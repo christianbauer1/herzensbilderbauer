@@ -59,7 +59,7 @@ function RatingLayout({
     <div className="flex flex-col gap-5">
       <div className="flex -space-x-6 overflow-hidden">
         {images.map((img) => (
-          <div className={`inline-block h-20 w-20 ${classNameImage}`}>
+          <div key={img} className={`inline-block h-20 w-20 ${classNameImage}`}>
             <Image
               width={120}
               height={120}

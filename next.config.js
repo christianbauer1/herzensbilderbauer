@@ -8,6 +8,7 @@ await import("./src/env.js");
 const config = {
   output: "export",
   images: {
+    unoptimized: true, // required for static export (output: 'export')
     remotePatterns: [
       { hostname: "images.unsplash.com" },
       { hostname: "utfs.io" },
