@@ -1,8 +1,6 @@
 # Deploy to GitHub Pages + Custom Domain (herzensbilderbauer.de)
 
-Every **git push** to `main` triggers a build and deploys the site to GitHub Pages. To use your domain **herzensbilderbauer.de** instead of `*.github.io`, follow the steps below.
-
----
+Every **git push** to `main` triggers a build and deploys the site to GitHub Pages.
 
 ## 1. Enable GitHub Pages (one-time)
 
@@ -33,13 +31,13 @@ Log in to **IONOS** → your domain **herzensbilderbauer.de** → **DNS** (or "D
 
 Add/update these records:
 
-| Type | Name/Host | Value/Points to        | TTL (optional) |
-|------|-----------|------------------------|-----------------|
-| **A**    | `@` (or leave empty) | `185.199.108.153`  | 3600 |
-| **A**    | `@`                  | `185.199.109.153`  | 3600 |
-| **A**    | `@`                  | `185.199.110.153`  | 3600 |
-| **A**    | `@`                  | `185.199.111.153`  | 3600 |
-| **CNAME**| `www`                | `<your-username>.github.io` | 3600 |
+| Type      | Name/Host            | Value/Points to             | TTL (optional) |
+| --------- | -------------------- | --------------------------- | -------------- |
+| **A**     | `@` (or leave empty) | `185.199.108.153`           | 3600           |
+| **A**     | `@`                  | `185.199.109.153`           | 3600           |
+| **A**     | `@`                  | `185.199.110.153`           | 3600           |
+| **A**     | `@`                  | `185.199.111.153`           | 3600           |
+| **CNAME** | `www`                | `<your-username>.github.io` | 3600           |
 
 - The **four A records** make **herzensbilderbauer.de** (apex) point to GitHub Pages.
 - The **CNAME** makes **www.herzensbilderbauer.de** point to GitHub.
@@ -71,11 +69,11 @@ If you want **www.herzensbilderbauer.de** to redirect to **herzensbilderbauer.de
 
 ## Summary
 
-| Step | Where | What |
-|------|--------|------|
-| 1 | GitHub → Settings → Pages | Source = **GitHub Actions** |
-| 2a | GitHub → Settings → Pages | Custom domain = **herzensbilderbauer.de** |
-| 2b | IONOS → DNS | 4× A for `@` → GitHub IPs; 1× CNAME `www` → `username.github.io` |
-| 3 | GitHub → Settings → Pages | Enable **Enforce HTTPS** when offered |
+| Step | Where                     | What                                                             |
+| ---- | ------------------------- | ---------------------------------------------------------------- |
+| 1    | GitHub → Settings → Pages | Source = **GitHub Actions**                                      |
+| 2a   | GitHub → Settings → Pages | Custom domain = **herzensbilderbauer.de**                        |
+| 2b   | IONOS → DNS               | 4× A for `@` → GitHub IPs; 1× CNAME `www` → `username.github.io` |
+| 3    | GitHub → Settings → Pages | Enable **Enforce HTTPS** when offered                            |
 
 After that, every **git push** to **main** will build and deploy the site automatically; no VPS or Coolify needed.

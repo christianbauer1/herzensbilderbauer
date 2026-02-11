@@ -4,7 +4,7 @@
 
 - Umbau auf statische website (blogposts), galerie rausnehmen bzw error werfen im frontend wenn man versucht sich einzuloggen mit meinen kontaktdaten
 - UMZUG Auf einen FREE statischen hoster
-- bilder und alles andere (audio, video, etc) von firebase WEGNEHMEN und auf uploadthing hochladen!
+- bilder und alles andere (audio, video, etc) von firebase WEGNEHMEN und auf uploadthing hochladen oder statisch in diesem ordner serven
 - alle bilder aus den blogartikeln rausnehmen
 
 - Schema Markup Rezensionen einbauen auf der Seite + Schema Markup für die Blogposts automatisiert bereitstellen https://dev.to/ikoichi/how-to-add-schemaorg-to-a-nextjs-13-website-1cm6 + https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de#json-ld
