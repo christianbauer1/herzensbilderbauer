@@ -33,26 +33,46 @@ Then commit, push, and redeploy. After that, use either the .github.io URL or th
 3. Click **Save**.
 4. If GitHub shows a **DNS check** or **CNAME** suggestion, leave the tab open; you’ll fix DNS in the next step.
 
-### B. Configure DNS at IONOS
+### B. Configure DNS at IONOS (and clean up)
 
-Log in to **IONOS** → your domain **herzensbilderbauer.de** → **DNS** (or "Domain & SSL" → "Manage DNS").
+Log in to **IONOS** → domain **herzensbilderbauer.de** → **DNS** (or "Domain & SSL" → "Manage DNS").
 
-Add/update these records:
+#### 1) Remove MailerSend (you don’t use it)
 
-| Type      | Name/Host            | Value/Points to             | TTL (optional) |
-| --------- | -------------------- | --------------------------- | -------------- |
-| **A**     | `@` (or leave empty) | `185.199.108.153`           | 3600           |
-| **A**     | `@`                  | `185.199.109.153`           | 3600           |
-| **A**     | `@`                  | `185.199.110.153`           | 3600           |
-| **A**     | `@`                  | `185.199.111.153`           | 3600           |
-| **CNAME** | `www`                | `<your-username>.github.io` | 3600           |
+- **Delete** the CNAME with host **`mlsend2._domainkey`** (Wert: `mlsend2._domainkey.mailersend.net`).
+- **Delete** the CNAME with host **`mta`** (Wert: `mailersend.net`).
+- **Edit** the TXT record for **`@`** whose value starts with `"v=spf1 include:_spf.mailersend.net ..."`:
+  - Remove the part `include:_spf.mailersend.net` (and `include:_spf-eu...` if present).
+  - If you only use IONOS for mail, use e.g. `v=spf1 include:_spf.ionos.de ~all`. If you’re unsure, leave the rest of the SPF as-is and only remove the MailerSend `include` line(s).
 
-- The **four A records** make **herzensbilderbauer.de** (apex) point to GitHub Pages.
-- The **CNAME** makes **www.herzensbilderbauer.de** point to GitHub.
+#### 2) Point the website to GitHub Pages
 
-Replace **&lt;your-username&gt;** with your GitHub username (e.g. if your repo is `christianbauer/herzensbilderbauer`, use `christianbauer.github.io`).
+**Replace the old A records** (currently pointing to `217.160.224.173`):
 
-If IONOS only lets you add one A record for `@`, add all four IPs if the UI allows multiple values; otherwise add four separate A records with the same host `@` and one IP each.
+- **`@`** (root): Delete the existing A record, then add **four** A records for host **`@`**, each with one of these values:
+  - `185.199.108.153`
+  - `185.199.109.153`
+  - `185.199.110.153`
+  - `185.199.111.153`
+- **`www`**: Delete the current A record for **`www`** and add a **CNAME**:
+  - Host: **`www`**
+  - Wert/Value: **`christianbauer1.github.io`**
+- **`*`** (wildcard): Delete the A record for **`*`** so subdomains don’t still point to the old server. (Optional: you can leave it for now and remove it later.)
+
+**Leave as they are** (mail, DMARC, etc.): MX, `_dmarc`, `_domainconnect`, `s1-ionos._domainkey`, `s2-ionos._domainkey`, `s42582890._domainkey`, `autodiscover`, and the TXT `hosting-site=...` unless IONOS tells you to change something.
+
+Quick reference:
+
+| Aktion   | Typ   | HOSTNAME | WERT / Value              |
+| -------- | ----- | -------- | ------------------------- |
+| Löschen  | (alt) | @        | 217.160.224.173           |
+| Hinzufügen | A   | @        | 185.199.108.153           |
+| Hinzufügen | A   | @        | 185.199.109.153           |
+| Hinzufügen | A   | @        | 185.199.110.153           |
+| Hinzufügen | A   | @        | 185.199.111.153           |
+| Löschen  | (alt) | www      | 217.160.224.173           |
+| Hinzufügen | CNAME | www    | christianbauer1.github.io |
+| Löschen (optional) | (alt) | * | 217.160.224.173 |
 
 ### C. Enforce HTTPS (recommended)
 
