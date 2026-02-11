@@ -18,9 +18,6 @@ const config = {
   typescript: {
     ignoreBuildErrors: true, // can be done in git action and not in build process, so build performance is improved
   },
-  eslint: {
-    ignoreDuringBuilds: true, // can be done in git action and not in build process, so build performance is improved
-  },
 };
 
 export default config;
