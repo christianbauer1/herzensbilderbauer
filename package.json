@@ -5,10 +5,6 @@
   "type": "module",
   "scripts": {
     "build": "next build",
-    "extract-blog": "node scripts/extract-posts-from-sql.js",
-    "optimize-images": "node scripts/download-and-optimize-images.js",
-    "download-videos": "node scripts/download-videos.js",
-    "remove-unused-images": "node scripts/remove-unused-images.js",
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start"
