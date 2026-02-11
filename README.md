@@ -5,20 +5,7 @@
 - upgrade to nextjs 15, then 16! security issues!
 - Schema Markup Rezensionen einbauen auf der Seite + Schema Markup für die Blogposts automatisiert bereitstellen https://dev.to/ikoichi/how-to-add-schemaorg-to-a-nextjs-13-website-1cm6 + https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de#json-ld
 
-## TODO & Ideen für später
-
-- Backlinks aufbauen: Ideen für Posts: https://robertjinksphotography.com/blog-photography +
-  schauen wo in der Gegend oft geheiratet wird zb Walkmühle, Förster,
-  orangerie und dort Blog Posts machen (Mit diesen Anbietern Kontakt
-  aufnehmen v.a. kleinere Buden und nach Backlink fragen wenn ich einen
-  Blogpost über sie schreibe)... ANsonsten einfach bloggen über die größten
-  städte mittelfrankens: Nürnberg Fürth Erlangen Schwabach Ansbach Roth
-  Herzogenaurach Lauf an der Pegnitz Feucht Altdorf bei Nürnberg Stein
-  Weißenburg in Bayern Gunzenhausen Treuchtlingen Dinkelsbühl Neustadt an
-  der Aisch Hersbruck Heilsbronn Hilpoltstein Bad Windsheim
-  --> Ideal wenn ich für jede dieser Städte eine eigene landing page hätte! Format der Seite ist wie die bisherige landing, aber mit ein paar zusätzlichen infos über die stadt, damit jede seite etwas eigenes individuelles hat
-
-# 100 reasons to stay alive:
+# 100 reasons to live:
 
 1. to make your parents proud
 2. to conquer your fears
