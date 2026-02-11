@@ -13,12 +13,7 @@ const config = {
   assetPrefix: process.env.BASE_PATH ? `${process.env.BASE_PATH}/` : "",
   images: {
     unoptimized: true, // required for static export (output: 'export')
-    remotePatterns: [
-      { hostname: "images.unsplash.com" },
-      { hostname: "utfs.io" },
-      { hostname: "listando.s3.eu-central-1.amazonaws.com" },
-      { hostname: "firebasestorage.googleapis.com" },
-    ],
+    remotePatterns: [],
   },
   typescript: {
     ignoreBuildErrors: true, // can be done in git action and not in build process, so build performance is improved
