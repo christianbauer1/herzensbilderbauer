@@ -2,6 +2,7 @@
 
 ## Akute Todos
 
+- upgrade to nextjs 15, then 16! security issues!
 - Schema Markup Rezensionen einbauen auf der Seite + Schema Markup für die Blogposts automatisiert bereitstellen https://dev.to/ikoichi/how-to-add-schemaorg-to-a-nextjs-13-website-1cm6 + https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de#json-ld
 
 ## TODO & Ideen für später
