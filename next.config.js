@@ -7,6 +7,10 @@ await import("./src/env.js");
 /** @type {import("next").NextConfig} */
 const config = {
   output: "export",
+  // Required for GitHub Pages when the site is at username.github.io/repo-name/
+  // When you use your custom domain (herzensbilderbauer.de), set BASE_PATH="" in the workflow and redeploy so the site works at the root of your domain.
+  basePath: process.env.BASE_PATH ?? "/herzensbilderbauer",
+  assetPrefix: process.env.BASE_PATH ? `${process.env.BASE_PATH}/` : "",
   images: {
     unoptimized: true, // required for static export (output: 'export')
     remotePatterns: [

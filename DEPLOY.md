@@ -11,8 +11,16 @@ Every **git push** to `main` triggers a build and deploys the site to GitHub Pag
 
 After the first successful run of the **Deploy to GitHub Pages** workflow, the site will be available at:
 
-- **Default:** `https://<your-username>.github.io/herzensbilderbauer/`  
-  (or `https://<your-username>.github.io/` if the repo is named `username.github.io`)
+- **Default:** `https://christianbauer1.github.io/herzensbilderbauer/`
+
+The build uses `basePath: "/herzensbilderbauer"` so CSS and assets load correctly on that URL. **When you use your custom domain (herzensbilderbauer.de)**, add this to the workflow’s “Build static export” step so the site works at the root of your domain:
+
+```yaml
+env:
+  BASE_PATH: ""
+```
+
+Then commit, push, and redeploy. After that, use either the .github.io URL or the custom domain, not both, unless you keep two builds.
 
 ---
 
