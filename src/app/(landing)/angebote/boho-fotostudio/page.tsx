@@ -16,6 +16,7 @@ import Link from "next/link";
 import { CalendarDaysIcon, CameraIcon, SpeechIcon } from "@/components/icons";
 import {
   DEFAULT_HOURLY_RATE,
+  EMAIL_ADDRESS,
   GOOGLE_REVIEW_COUNT,
   PHONE_NUMBER,
   PHONE_NUMBER_WRITTEN,
@@ -407,11 +408,8 @@ const questionsAndAnswers = [
     answer: (
       <p>
         Ihr könnt euch jederzeit unter{" "}
-        <Link
-          href={"mailto:hey@herzensbilderbauer.de"}
-          className="font-extrabold underline"
-        >
-          hey@herzensbilderbauer.de
+        <Link href={EMAIL_ADDRESS} className="font-extrabold underline">
+          {EMAIL_ADDRESS}
         </Link>{" "}
         melden. Oder mal bei mir unter{" "}
         <Link href={`tel:${PHONE_NUMBER}`} className="font-extrabold underline">

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ArrowLongRightIcon } from "@/components/icons";
 import {
   DEFAULT_HOURLY_RATE,
+  EMAIL_ADDRESS,
   PHONE_NUMBER,
   TRAVEL_HOURLY_RATE,
 } from "@/lib/constants";
@@ -28,8 +29,7 @@ export default function HomePage() {
             "Mit Erfahrung, Leidenschaft und kreativem Auge fange ich die magischen Momente und tiefen Emotionen ein, um sie in beeindruckenden Bildern und Videos für die Ewigkeit festzuhalten.",
         },
         imgUrl: "/images/hero.jpg",
-        videoUrl:
-          "/videos/kevshort.mp4",
+        videoUrl: "/videos/kevshort.mp4",
       }}
       portfolio={{
         heading: {
@@ -232,11 +232,8 @@ export default function HomePage() {
             answer: (
               <p>
                 Ihr könnt euch jederzeit unter{" "}
-                <Link
-                  href={"mailto:hey@herzensbilderbauer.de"}
-                  className="font-extrabold underline"
-                >
-                  hey@herzensbilderbauer.de
+                <Link href={EMAIL_ADDRESS} className="font-extrabold underline">
+                  {EMAIL_ADDRESS}
                 </Link>{" "}
                 melden. Oder mal bei mir unter{" "}
                 <Link href={PHONE_NUMBER} className="font-extrabold underline">

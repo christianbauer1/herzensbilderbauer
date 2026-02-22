@@ -1,6 +1,10 @@
 import GenericLayout from "@/components/landing/generic-layout";
 import { PriceTier } from "@/components/landing/pricing";
-import { DEFAULT_HOURLY_RATE, PHONE_NUMBER } from "@/lib/constants";
+import {
+  DEFAULT_HOURLY_RATE,
+  EMAIL_ADDRESS,
+  PHONE_NUMBER,
+} from "@/lib/constants";
 import Link from "next/link";
 import React from "react";
 
@@ -276,11 +280,8 @@ const questionsAndAnswers = [
     answer: (
       <p>
         Ihr könnt euch jederzeit unter{" "}
-        <Link
-          href={"mailto:hey@herzensbilderbauer.de"}
-          className="font-extrabold underline"
-        >
-          hey@herzensbilderbauer.de
+        <Link href={EMAIL_ADDRESS} className="font-extrabold underline">
+          {EMAIL_ADDRESS}
         </Link>{" "}
         melden. Oder mal bei mir unter{" "}
         <Link href={`tel:${PHONE_NUMBER}`} className="font-extrabold underline">

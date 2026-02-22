@@ -3,6 +3,7 @@ import { PriceTier } from "@/components/landing/pricing";
 import { FormattedQuestion } from "@/components/landing/q-and-a";
 import {
   DISCOUNT_VIDEO_PRICE,
+  EMAIL_ADDRESS,
   PHONE_NUMBER,
   PHONE_NUMBER_WRITTEN,
   TRAVEL_HOURLY_RATE,
@@ -31,8 +32,7 @@ export default function Page() {
           title:
             "Mit meinen Fotos und Videos bleibt eure Hochzeit ewig lebendig",
         },
-        videoUrl:
-          "/videos/kevshort.mp4",
+        videoUrl: "/videos/kevshort.mp4",
       }}
       portfolio={{
         heading: {
@@ -538,11 +538,8 @@ const questionsAndAnswers = [
     answer: (
       <p>
         Ihr könnt euch jederzeit unter{" "}
-        <Link
-          href={"mailto:hey@herzensbilderbauer.de"}
-          className="font-extrabold underline"
-        >
-          hey@herzensbilderbauer.de
+        <Link href={EMAIL_ADDRESS} className="font-extrabold underline">
+          {EMAIL_ADDRESS}
         </Link>{" "}
         melden. Oder mal bei mir unter{" "}
         <Link href={`tel:${PHONE_NUMBER}`} className="font-extrabold underline">

@@ -3,7 +3,7 @@ import { antic } from "@/fonts";
 import Link from "next/link";
 import { MailIcon, PhoneIcon } from "lucide-react";
 import Image from "next/image";
-import { PHONE_NUMBER, PHONE_NUMBER_WRITTEN } from "@/lib/constants";
+import { EMAIL_ADDRESS, PHONE_NUMBER, PHONE_NUMBER_WRITTEN } from "@/lib/constants";
 
 export const metadata = {
   title: "Jetzt Termin mit Fotograf in Ansbach vereinbaren",
@@ -37,9 +37,7 @@ export default function TerminVereinbaren() {
             <div className="flex flex-row items-center gap-3">
               <MailIcon className="text-primary" />
               <p className="text-accent-foreground">
-                <Link href={"mailto:hey@herzensbilderbauer.de"}>
-                  hey@herzensbilderbauer.de
-                </Link>
+                <Link href={EMAIL_ADDRESS}>{EMAIL_ADDRESS}</Link>
               </p>
             </div>
 

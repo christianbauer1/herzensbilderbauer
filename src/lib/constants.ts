@@ -13,6 +13,7 @@ export const PRICE_BAD_WEATHER_COVERAGE = 49;
 export const PHONE_NUMBER = "+4917657938937";
 export const PHONE_NUMBER_WRITTEN = "+49 176 57938937";
 export const DISCOUNT_VIDEO_PRICE = 1749;
+export const EMAIL_ADDRESS = "christianbauer994@gmail.com";
 
 export const MENU_NAVIGATION_ITEMS = [
   { name: "Home", href: "/" },
@@ -31,10 +32,8 @@ export const REVIEWS: TestimonialProps[] = [
     name: "Mona & Niko",
     year: 2024,
     location: "Regensburg",
-    imgUrl:
-      "/images/optimized/7c5a8af48df1.jpg",
-    videotestimonialUrl:
-      "/videos/mona.mp4",
+    imgUrl: "/images/optimized/7c5a8af48df1.jpg",
+    videotestimonialUrl: "/videos/mona.mp4",
   },
   {
     type: "Whatsapp",
@@ -42,10 +41,8 @@ export const REVIEWS: TestimonialProps[] = [
     name: "Selina & Berkan",
     year: 2024,
     location: "Feuchtwangen",
-    imgUrl:
-      "/images/optimized/ed666f1ba777.jpg",
-    videotestimonialUrl:
-      "/videos/berkan.mp4",
+    imgUrl: "/images/optimized/ed666f1ba777.jpg",
+    videotestimonialUrl: "/videos/berkan.mp4",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/ZQUAc8AucBHwrsFp7",
@@ -54,10 +51,8 @@ export const REVIEWS: TestimonialProps[] = [
     name: "Waldemar & Sarah",
     year: 2024,
     location: "Ingolstadt",
-    imgUrl:
-      "/images/optimized/420f09505ee7.jpg",
-    videotestimonialUrl:
-      "/videos/waldemar.mp4",
+    imgUrl: "/images/optimized/420f09505ee7.jpg",
+    videotestimonialUrl: "/videos/waldemar.mp4",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/bwHkbP1cyjaq1GJs9",
@@ -66,10 +61,8 @@ export const REVIEWS: TestimonialProps[] = [
     name: "Michael & Anette",
     year: 2024,
     location: "Kerpen",
-    imgUrl:
-      "/images/optimized/ea3663056eba.jpg",
-    videotestimonialUrl:
-      "/videos/tobias.mp4",
+    imgUrl: "/images/optimized/ea3663056eba.jpg",
+    videotestimonialUrl: "/videos/tobias.mp4",
   },
 
   {
@@ -82,10 +75,8 @@ Wir haben wunderschöne und authentische Bilder von unserem Hochzeitstag bekomme
     name: "Andreas & Annika",
     year: 2024,
     location: "Bamberg",
-    imgUrl:
-      "/images/optimized/167734538169.jpg",
-    videotestimonialUrl:
-      "/videos/annika.mp4",
+    imgUrl: "/images/optimized/167734538169.jpg",
+    videotestimonialUrl: "/videos/annika.mp4",
   },
 
   {
@@ -93,10 +84,8 @@ Wir haben wunderschöne und authentische Bilder von unserem Hochzeitstag bekomme
     name: "Markus & Laura",
     year: 2024,
     location: "Darmstadt",
-    imgUrl:
-      "/images/optimized/fad119ce6349.jpg",
-    videotestimonialUrl:
-      "/videos/markus.mp4",
+    imgUrl: "/images/optimized/fad119ce6349.jpg",
+    videotestimonialUrl: "/videos/markus.mp4",
   },
 
   {
@@ -106,8 +95,7 @@ Dankeschön und weiter so!`,
     name: "Kathrin & Morrison",
     year: 2024,
     location: "Gunzenhausen",
-    imgUrl:
-      "/images/optimized/9be146e58528.jpg",
+    imgUrl: "/images/optimized/9be146e58528.jpg",
   },
 
   {
@@ -116,8 +104,7 @@ Dankeschön und weiter so!`,
     name: "Katharina & Thomas",
     year: 2024,
     location: "Aurach",
-    imgUrl:
-      "/images/optimized/7ae3d0b5b307.jpg",
+    imgUrl: "/images/optimized/7ae3d0b5b307.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Vq7MGyKug16ZeAGy7",
@@ -133,8 +120,7 @@ Wärend der Hochzeit sind sie kaum aufgefallen, standen uns aber zu jeder Zeit z
     name: "Sophia & Alex",
     year: 2024,
     location: "Lichtenau",
-    imgUrl:
-      "/images/optimized/9c968fb97972.jpg",
+    imgUrl: "/images/optimized/9c968fb97972.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Jm2wTmnvt6A99SDv7",
@@ -142,8 +128,7 @@ Wärend der Hochzeit sind sie kaum aufgefallen, standen uns aber zu jeder Zeit z
     name: "Daniel & Verena",
     year: 2024,
     location: "Herrieden",
-    imgUrl:
-      "/images/optimized/2a143d7dab3e.jpg",
+    imgUrl: "/images/optimized/2a143d7dab3e.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/LopmHWjyMekT6XCo6",
@@ -157,8 +142,7 @@ Nun haben wir wirklich großartige Bilder, die wir wunderbar als Grundlage für 
     name: "Sandra & Jakob",
     year: 2024,
     location: "Augsburg",
-    imgUrl:
-      "/images/optimized/7367467a25f1.jpg",
+    imgUrl: "/images/optimized/7367467a25f1.jpg",
   },
   {
     type: "Whatsapp",
@@ -166,8 +150,7 @@ Nun haben wir wirklich großartige Bilder, die wir wunderbar als Grundlage für 
     name: "Brigitta & Sandor",
     year: 2024,
     location: "Flachslanden",
-    imgUrl:
-      "/images/optimized/4735ff9e903e.jpg",
+    imgUrl: "/images/optimized/4735ff9e903e.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/Y3RwhAyN7zDxX4E67",
@@ -194,8 +177,7 @@ Sind richtig schöne Bilder dabei 👍 `,
     name: "Sarah & Tom",
     year: 2024,
     location: "Neuendettelsau",
-    imgUrl:
-      "/images/optimized/f4931c0d53d4.jpg",
+    imgUrl: "/images/optimized/f4931c0d53d4.jpg",
   },
   {
     type: "Whatsapp",
@@ -204,8 +186,7 @@ Die Bilder die du geschickt hast sind echt mega schön geworden sie gefallen uns
     name: "Jasmin & Daniel",
     year: 2024,
     location: "Ansbach",
-    imgUrl:
-      "/images/optimized/d8ffa09ff478.jpg",
+    imgUrl: "/images/optimized/d8ffa09ff478.jpg",
   },
 
   {
@@ -214,8 +195,7 @@ Die Bilder die du geschickt hast sind echt mega schön geworden sie gefallen uns
     name: "Familie Anderson",
     year: 2024,
     location: "Ansbach",
-    imgUrl:
-      "/images/optimized/5112805a799d.jpg",
+    imgUrl: "/images/optimized/5112805a799d.jpg",
   },
   {
     type: "Whatsapp",
@@ -225,8 +205,7 @@ Danke das ihr euch heute Zeit genommen habt für uns 3 😊🤗 es war ein sehr 
     name: "Familie Pankratz",
     year: 2024,
     location: "Ansbach",
-    imgUrl:
-      "/images/optimized/5cd4ae8256fc.jpg",
+    imgUrl: "/images/optimized/5cd4ae8256fc.jpg",
   },
   {
     type: "Whatsapp",
@@ -237,8 +216,7 @@ Claudia und Jürgen mit Fritz`,
     name: "Familie Hofmann",
     year: 2024,
     location: "",
-    imgUrl:
-      "/images/optimized/39662d3f32e9.jpg",
+    imgUrl: "/images/optimized/39662d3f32e9.jpg",
   },
   {
     reviewUrl: "https://maps.app.goo.gl/wJztwr1YrGV5xyXDA",
@@ -267,8 +245,7 @@ Vielen Dank für deine tolle Arbeit :)`,
     name: "Merve & Alicia",
     year: 2024,
     location: "Würzburg",
-    imgUrl:
-      "/images/optimized/c2f9902fdf44.jpg",
+    imgUrl: "/images/optimized/c2f9902fdf44.jpg",
   },
 
   {
@@ -277,8 +254,7 @@ Vielen Dank für deine tolle Arbeit :)`,
     name: "Sandra & Lukas",
     year: 2024,
     location: "Stuttgart",
-    imgUrl:
-      "/images/optimized/1261c2714105.jpg",
+    imgUrl: "/images/optimized/1261c2714105.jpg",
   },
 
   {

@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { antic } from "@/fonts";
-import { PHONE_NUMBER } from "@/lib/constants";
+import { EMAIL_ADDRESS, PHONE_NUMBER } from "@/lib/constants";
 import Link from "next/link";
 
 export const metadata = {
@@ -28,7 +28,7 @@ export default function Impressum() {
 
       <h2 className="font-bold">Kontakt:</h2>
       <p>Telefon: {PHONE_NUMBER}</p>
-      <p>Email: hey@herzensbilderbauer.de</p>
+      <p>Email: {EMAIL_ADDRESS}</p>
 
       <h2 className="font-bold">Steuernummer:</h2>
       <p>auf Anfrage</p>

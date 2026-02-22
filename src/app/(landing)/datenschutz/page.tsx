@@ -1,6 +1,6 @@
 import React from "react";
 import { antic } from "@/fonts";
-import { PHONE_NUMBER } from "@/lib/constants";
+import { EMAIL_ADDRESS, PHONE_NUMBER } from "@/lib/constants";
 
 export default function Page() {
   return (
@@ -41,7 +41,7 @@ export default function Page() {
 
       <h2 className="font-bold">Kontakt:</h2>
       <p>Telefon: {PHONE_NUMBER}</p>
-      <p>Email: hey@herzensbilderbauer.de</p>
+      <p>Email: {EMAIL_ADDRESS}</p>
 
       <h2 className="font-bold">Ihre Rechte als betroffene Person:</h2>
 

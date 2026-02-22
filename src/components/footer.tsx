@@ -2,6 +2,7 @@ import Link from "next/link";
 import { BottomColorblur, TopColorblur } from "@/components/colorblur";
 import { InstagramIcon } from "@/components/icons";
 import {
+  EMAIL_ADDRESS,
   MENU_NAVIGATION_ITEMS,
   PHONE_NUMBER,
   PHONE_NUMBER_WRITTEN,
@@ -95,9 +96,7 @@ export default function Footer() {
           </p>
 
           <p className="text-center text-xs font-bold text-accent-foreground underline">
-            <Link href={"mailto:hey@herzensbilderbauer.de"}>
-              hey@herzensbilderbauer.de
-            </Link>
+            <Link href={EMAIL_ADDRESS}>{EMAIL_ADDRESS}</Link>
           </p>
 
           <p className="text-center text-xs font-bold text-accent-foreground underline">
