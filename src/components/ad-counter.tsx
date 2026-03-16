@@ -23,7 +23,11 @@ export default function AskForPrintMedia({
   const discount = daysLeftForOffer <= 0 ? "10%" : "25%";
 
   const event = ({ action, category, label, value }: any) => {
-    (window as any).gtag("event", action, {
+    if (typeof window === "undefined") return;
+    const gtag = (window as any).gtag;
+    if (typeof gtag !== "function") return;
+
+    gtag("event", action, {
       event_category: category,
       event_label: label,
       value: value,
