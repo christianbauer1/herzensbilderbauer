@@ -18,7 +18,7 @@ export default function Impressum() {
       >
         Impressum
       </h1>
-      <p>Angaben gemäß § 5 TMG</p>
+      <p>Angaben gemäß § 5 DDG</p>
       <p>Christian Bauer</p>
       <p>Jüdtstr. 24</p>
       <p>91522 Ansbach</p>

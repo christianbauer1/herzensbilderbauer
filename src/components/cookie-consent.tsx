@@ -47,10 +47,10 @@ export default function CookieConsent() {
     <div className="fixed inset-x-0 bottom-0 z-30 flex flex-col justify-between gap-x-8 gap-y-4 bg-white p-4 ring-1 ring-gray-900/10 md:flex-row md:items-center lg:px-8">
       <p className="max-w-6xl text-sm leading-6">
         Hilf uns, unsere Website zu verbessern. Wir verwenden dafür optionale{" "}
-        <span className="font-semibold">Cookies von Google</span>. Diese werden{" "}
-        <span className="font-semibold">
-          nur gesetzt, wenn du ausdrücklich zustimmst
-        </span>
+        <span className="font-semibold">Google-Dienste</span> (z. B. Google
+        Analytics und Google Maps). Diese werden{" "}
+        <span className="font-semibold">nur geladen, wenn du ausdrücklich
+          zustimmst</span>
         . Weitere Infos findest du in unserer{" "}
         <Link
           href="/datenschutz"

@@ -9,6 +9,7 @@ import {
 } from "@/lib/constants";
 import { Separator } from "./ui/separator";
 import Image from "next/image";
+import GoogleMapsEmbed from "./google-maps-embed";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -76,15 +77,7 @@ export default function Footer() {
         </div>
 
         <div className="mx-auto mt-12 w-full">
-          <iframe
-            className="h-64 w-full"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3509.033830972777!2d10.608484177072077!3d49.261145372278165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4798b976d1f1b993%3A0xdd274c0d711fad0e!2sHerzensbilder%20Bauer!5e1!3m2!1sde!2sde!4v1731936603895!5m2!1sde!2sde"
-            width="600"
-            height="450"
-            allowFullScreen={true}
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          ></iframe>
+          <GoogleMapsEmbed />
         </div>
 
         <p className="mt-10 text-center text-xs text-accent-foreground">

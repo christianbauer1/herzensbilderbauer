@@ -74,6 +74,12 @@ export default function Page() {
         ein.
       </p>
       <p>
+        Darüber hinaus binden wir die Kartenansicht über Google Maps erst nach
+        Ihrer ausdrücklichen Einwilligung ein. Dadurch können technische
+        Informationen bei der Nutzung der Kartenfunktion an Google übertragen
+        werden.
+      </p>
+      <p>
         Notwendige Cookies sind für den Betrieb der Website erforderlich und
         beruhen auf Art. 6 Abs. 1 lit. f DSGVO. Statistik-Cookies werden nur
         gesetzt, wenn Sie im Cookie-Banner aktiv zustimmen (Art. 6 Abs. 1 lit. a
