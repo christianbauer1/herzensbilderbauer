@@ -230,7 +230,7 @@ const priceTiers: PriceTier[] = [
       {
         listItemText: "Bis zu 10 Stunden vor Ort",
         tooltipText:
-          "Gerne könnt ihr jede weitere Stunde mit 149 € dazubuchen. Falls ihr extra lange feiern wollt, oder ich zB. beim Getting Ready mit dabei sein soll.",
+          "Gerne könnt ihr jede weitere Stunde mit 180 € dazubuchen. Falls ihr extra lange feiern wollt, oder ich zB. beim Getting Ready mit dabei sein soll.",
       },
 
       {
